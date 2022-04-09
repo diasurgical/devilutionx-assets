@@ -6,6 +6,7 @@ main() {
   set -x
   build_fonts_mpq
   build_audio_mpq pl
+  build_audio_mpq ru
   du -sh *.mpq
 }
 
