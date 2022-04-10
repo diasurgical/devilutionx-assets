@@ -2,11 +2,14 @@
 
 set -euo pipefail
 
+declare -ra LANGS=(pl ru)
+
 main() {
   set -x
   build_fonts_mpq
-  build_audio_mpq pl
-  build_audio_mpq ru
+  for lang in "${LANGS[@]}"; do
+    build_audio_mpq "$lang"
+  done
   du -sh *.mpq
 }
 
@@ -26,11 +29,11 @@ encode_to_mp3() {
   rm -rf build/"$1"
   mkdir -p build/"$1"
   cd "$1"
-  find * -type f -iname '*.wav' -printf '%h\n' | sort | uniq \
+  find * -type f -iname '*.flac' -printf '%h\n' | sort | uniq \
     | xargs -I'{}' mkdir -p ../build/"$1"/'{}'
-  find * -type f -iname '*.wav' -print0 \
+  find * -type f -iname '*.flac' -print0 \
     | xargs --max-procs="$(nproc)" -0 -I '{}' \
-      sh -c 'f={}; xargs lame --replaygain-accurate --quiet -q 0 "$f" "../build/'"$1"'/${f%.*}.mp3"'
+      sh -c 'f={}; flac --silent -d -c "$f" | lame --replaygain-accurate --quiet -q 0 - "../build/'"$1"'/${f%.*}.mp3"'
   cd -
   du -sh build/"$1"
 }
