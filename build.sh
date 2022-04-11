@@ -16,7 +16,7 @@ main() {
 build_fonts_mpq() {
   rm -f fonts.mpq
   cd assets
-  find * -type f -exec smpq -M 1 -C PKWARE -c ../fonts.mpq '{}' '+'
+  find * -type f -exec smpq -M 1 -C BZIP2 -c ../fonts.mpq '{}' '+'
   cd -
 }
 
