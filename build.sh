@@ -20,9 +20,19 @@ build_fonts_mpq() {
   fi
   rm -f fonts.mpq
   mkdir -p build/fonts
-  pcx2clx --output-dir build/fonts --transparent-color 1 --num-sprites 256 --quiet assets/fonts/*.pcx
+  cp assets/fonts/VERSION build/fonts/VERSION
+
+  FONT_CONVERT_ARGS=(--transparent-color 1 --num-sprites 256 --output-dir build/fonts --quiet)
+  for path in assets/fonts/*.pcx; do
+    if [[ -f "${path%.pcx}.txt" ]]; then
+      pcx2clx "${FONT_CONVERT_ARGS[@]}" --crop-widths "$(cat "${path%.pcx}.txt" | paste -sd , -)" "${path}"
+    else
+      pcx2clx "${FONT_CONVERT_ARGS[@]}" "${path}"
+    fi
+  done
+
   cd build
-  find fonts -type f -exec smpq -M 1 -C BZIP2 -c ../fonts.mpq '{}' '+'
+  find fonts -type f -printf "%p\n" | LC_ALL=C sort | xargs smpq -A -M 1 -C BZIP2 -c ../fonts.mpq
   cd -
 }
 
@@ -48,7 +58,7 @@ build_encoded_audio_mpq() {
   rm -f "$1".mpq
   cp "$1"/credits-translation.txt build/"$1"/
   cd build/"$1"
-  find * -type f -exec smpq -M 1 -C none -c ../../"$1".mpq '{}' '+'
+  find * -type f -printf "%p\n" | LC_ALL=C sort | xargs smpq -A -M 1 -C none -c ../../"$1".mpq
   cd -
 }
 
