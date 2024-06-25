@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-declare -ra LANGS=(pl ru)
+declare -ra LANGS=(es pl ru)
 
 main() {
   set -x
