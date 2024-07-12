@@ -22,13 +22,28 @@ build_fonts_mpq() {
   mkdir -p build/fonts
   cp assets/fonts/VERSION build/fonts/VERSION
 
-  FONT_CONVERT_ARGS=(--transparent-color 1 --num-sprites 256 --output-dir build/fonts --quiet)
+  FONT_CONVERT_ARGS=(--transparent-color 1 --num-sprites 256 --quiet)
   for path in assets/fonts/*.pcx; do
     if [[ -f "${path%.pcx}.txt" ]]; then
-      pcx2clx "${FONT_CONVERT_ARGS[@]}" --crop-widths "$(cat "${path%.pcx}.txt" | paste -sd , -)" "${path}"
+      pcx2clx "${FONT_CONVERT_ARGS[@]}" --output-dir build/fonts --crop-widths "$(cat "${path%.pcx}.txt" | paste -sd , -)" "${path}"
     else
-      pcx2clx "${FONT_CONVERT_ARGS[@]}" "${path}"
+      pcx2clx "${FONT_CONVERT_ARGS[@]}" --output-dir build/fonts "${path}"
     fi
+  done
+  for lang_dir in fonts/*/; do
+    lang_dir="${lang_dir%/}" # remove trailing slash
+    if [[ $lang_dir = 'fonts/*' ]]; then
+      # glob didn't match
+      continue
+    fi
+    mkdir -p "build/${lang_dir}"
+    for path in "$lang_dir"/*.pcx; do
+      if [[ -f "${path%.pcx}.txt" ]]; then
+        pcx2clx "${FONT_CONVERT_ARGS[@]}" --output-dir "build/${lang_dir}" --crop-widths "$(cat "${path%.pcx}.txt" | paste -sd , -)" "${path}"
+      else
+        pcx2clx "${FONT_CONVERT_ARGS[@]}" --output-dir "build/${lang_dir}" "${path}"
+      fi
+    done
   done
 
   cd build
