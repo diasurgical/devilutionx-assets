@@ -5,7 +5,7 @@ set -euo pipefail
 declare -ra LANGS=(es pl ru)
 
 declare -rA DEPENDENCY_SOURCES=(
-  [pcx2clx]=https://github.com/diasurgical/devilutionx-graphics-tools/
+  [pcx2clx]=https://github.com/diasurgical/clx-conversion-tools/
 )
 declare -ra DEPENDENCIES=(pcx2clx flac lame)
 
