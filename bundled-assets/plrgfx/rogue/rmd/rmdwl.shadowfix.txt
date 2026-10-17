@@ -1,0 +1,18 @@
+# Black pixels of rmdwl that the shadow rule takes for shadow and that belong to the sprite.
+# Made by `shadow_search fixes`, see https://github.com/diasurgical/devilutionx-shadow-corrections
+shadowfix 1
+list 8
+frame 7 96 96 e9ebbaa5
+70 47 1 B
+list 8
+list 8
+list 8
+frame 2 96 96 02fb7aab
+78 44 1 B
+list 8
+list 8
+list 8
+list 8
+frame 2 96 96 fa21117c
+74 45 1 B
+75 45 1 B

@@ -1,0 +1,125 @@
+# Black pixels of wlmst that the shadow rule takes for shadow and that belong to the sprite.
+# Made by `shadow_search fixes`, see https://github.com/diasurgical/devilutionx-shadow-corrections
+shadowfix 1
+list 20
+frame 8 96 96 72391d0b
+66 40 1 B
+frame 9 96 96 57ab7725
+66 40 1 B
+frame 11 96 96 25943d89
+69 48 1 B
+frame 17 96 96 fd6e4523
+70 48 1 B
+list 20
+frame 19 96 96 80df9c43
+70 48 1 B
+list 20
+frame 4 96 96 fdadf12a
+69 44 1 B
+frame 5 96 96 004eca57
+69 44 1 B
+frame 6 96 96 1f1e73a1
+69 44 1 B
+list 20
+frame 0 96 96 6da3b4e8
+67 39 2 B
+frame 1 96 96 20196965
+67 39 2 B
+frame 2 96 96 2e9350ed
+67 39 2 B
+frame 3 96 96 487a684f
+67 39 2 B
+frame 4 96 96 e84f6847
+67 39 2 B
+frame 7 96 96 0197bb1c
+67 39 2 B
+frame 8 96 96 690f0717
+67 39 2 B
+frame 10 96 96 a2745592
+67 39 2 B
+frame 11 96 96 c78b03ad
+66 39 2 B
+67 39 2 B
+frame 12 96 96 2423a8ea
+67 39 2 B
+frame 13 96 96 a91d4795
+65 39 1 B
+67 40 1 B
+frame 14 96 96 7adee4b4
+65 39 1 B
+67 40 1 B
+frame 15 96 96 e9b4a126
+65 39 1 B
+67 40 1 B
+frame 16 96 96 cb4b409d
+65 39 1 B
+67 40 1 B
+frame 17 96 96 abf0a82c
+67 39 2 B
+frame 18 96 96 1d1251bd
+67 39 2 B
+frame 19 96 96 0d4e1cb6
+67 39 2 B
+list 20
+frame 0 96 96 7d204f14
+70 51 1 B
+frame 8 96 96 74614061
+70 51 1 B
+list 20
+frame 0 96 96 3bc7c911
+70 46 2 B
+frame 1 96 96 674f90b4
+69 47 1 B
+70 46 2 B
+frame 2 96 96 b23bc72e
+69 47 1 B
+70 46 2 B
+frame 3 96 96 6c84fb31
+73 52 1 B
+frame 4 96 96 54cb51b8
+69 48 1 B
+70 47 2 B
+frame 5 96 96 9e495511
+69 47 2 B
+70 47 2 B
+frame 12 96 96 760c2bea
+69 44 1 B
+frame 14 96 96 98046178
+69 45 2 B
+77 40 1 B
+frame 15 96 96 6033185c
+77 40 1 B
+frame 18 96 96 a321b77e
+70 44 1 B
+frame 19 96 96 046e3218
+70 45 1 B
+list 20
+frame 12 96 96 94dc5bcf
+64 41 1 B
+frame 18 96 96 d1f7cc3d
+68 42 1 B
+69 42 1 B
+list 20
+frame 4 96 96 0442dd65
+65 35 1 B
+frame 6 96 96 b6228de9
+62 39 1 B
+63 39 2 B
+64 40 1 B
+66 39 1 B
+frame 7 96 96 5673426d
+63 40 1 B
+64 40 1 B
+frame 10 96 96 4221a886
+62 39 1 B
+frame 11 96 96 57637f47
+64 38 2 B
+65 38 1 B
+frame 12 96 96 845d39ff
+63 38 1 B
+64 38 1 B
+frame 14 96 96 55f63d02
+62 38 2 B
+63 39 1 B
+frame 15 96 96 85cb802d
+62 38 2 B

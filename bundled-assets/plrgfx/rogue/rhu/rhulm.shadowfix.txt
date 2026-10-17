@@ -1,0 +1,69 @@
+# Black pixels of rhulm that the shadow rule takes for shadow and that belong to the sprite.
+# Made by `shadow_search fixes`, see https://github.com/diasurgical/devilutionx-shadow-corrections
+shadowfix 1
+list 16
+frame 1 96 96 c33e0bf8
+74 50 1 B
+frame 15 96 96 72043128
+74 51 1 B
+list 16
+frame 1 96 96 f72673d7
+70 40 1 B
+78 45 1 B
+frame 15 96 96 a2284d7d
+70 40 1 B
+78 45 2 B
+list 16
+frame 1 96 96 86c71a35
+67 35 1 B
+70 38 1 B
+frame 2 96 96 389b10e7
+70 37 3 B
+73 38 1 B
+frame 3 96 96 dfa1d32c
+70 36 2 B
+frame 15 96 96 9bdf0a92
+67 35 1 B
+70 38 1 B
+list 16
+frame 0 96 96 e28622ea
+70 38 1 B
+72 39 1 B
+frame 1 96 96 4d8c70f8
+64 38 1 B
+67 38 2 B
+70 38 1 B
+frame 2 96 96 f34c2eca
+67 38 1 B
+frame 9 96 96 7c17ae0a
+80 57 1 B
+frame 11 96 96 09fdf7e1
+74 51 1 B
+frame 12 96 96 75fc90d9
+68 54 1 B
+frame 13 96 96 f41a2b99
+67 38 1 B
+67 54 1 B
+frame 14 96 96 ed09e1d8
+67 38 1 B
+frame 15 96 96 8bf566fe
+64 38 1 B
+67 38 1 B
+70 38 1 B
+list 16
+list 16
+list 16
+list 16
+frame 0 96 96 36283503
+71 52 1 B
+frame 5 96 96 3897ed9b
+65 37 1 B
+frame 6 96 96 2ec8cac4
+65 37 1 B
+frame 9 96 96 1bab5768
+65 37 1 B
+frame 10 96 96 4d55767c
+65 37 1 B
+frame 15 96 96 0c69541f
+71 37 1 B
+71 52 1 B

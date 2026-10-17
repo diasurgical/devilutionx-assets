@@ -1,0 +1,119 @@
+# Black pixels of wltst that the shadow rule takes for shadow and that belong to the sprite.
+# Made by `shadow_search fixes`, see https://github.com/diasurgical/devilutionx-shadow-corrections
+shadowfix 1
+list 20
+list 20
+list 20
+frame 0 96 96 7499b578
+69 42 1 B
+frame 1 96 96 7499b578
+69 42 1 B
+frame 2 96 96 fd6c58d7
+69 42 1 B
+frame 3 96 96 e4776517
+69 42 1 B
+frame 4 96 96 288de123
+69 42 1 B
+frame 5 96 96 1e4c10d7
+69 42 1 B
+frame 6 96 96 1e4c10d7
+69 42 1 B
+frame 7 96 96 7499b578
+69 42 1 B
+frame 8 96 96 ecae73fd
+69 42 1 B
+frame 9 96 96 61a23b24
+69 42 1 B
+frame 10 96 96 fa2b89fb
+69 42 1 B
+frame 11 96 96 f67e90f4
+69 42 1 B
+frame 12 96 96 6294538f
+69 42 1 B
+frame 13 96 96 32bbb955
+69 42 1 B
+frame 14 96 96 d62ddfa7
+69 42 1 B
+frame 15 96 96 e42b0efc
+69 42 1 B
+frame 16 96 96 9f07f3d2
+69 42 1 B
+frame 17 96 96 4332b619
+69 42 1 B
+frame 18 96 96 d10c7a74
+69 42 1 B
+frame 19 96 96 bfc356e9
+69 42 1 B
+list 20
+list 20
+list 20
+frame 8 96 96 f8d73154
+69 48 1 B
+frame 10 96 96 b6093eb4
+69 47 2 B
+70 47 2 B
+frame 11 96 96 93239002
+69 47 2 B
+frame 12 96 96 a61032e5
+69 47 2 B
+frame 17 96 96 a1d6d644
+69 48 1 B
+frame 18 96 96 de793387
+69 47 2 B
+70 48 1 B
+frame 19 96 96 4b389db5
+70 46 1 B
+list 20
+frame 1 96 96 14dce0f2
+61 46 1 B
+frame 2 96 96 0feb5392
+61 46 1 B
+frame 3 96 96 7b40c849
+61 46 1 B
+frame 4 96 96 a97db670
+61 46 1 B
+frame 6 96 96 5532206c
+61 46 1 B
+frame 7 96 96 063791e8
+61 46 1 B
+list 20
+frame 0 96 96 c8d4d7e4
+67 40 1 B
+frame 1 96 96 612bf97f
+67 40 1 B
+frame 2 96 96 8f9c1cde
+67 40 1 B
+frame 3 96 96 a3240791
+67 40 1 B
+frame 4 96 96 86af1504
+67 40 1 B
+frame 5 96 96 a671209d
+67 40 1 B
+frame 6 96 96 c423763e
+67 40 1 B
+frame 7 96 96 d01ffc5b
+67 40 1 B
+frame 8 96 96 fe5faec4
+67 40 1 B
+frame 9 96 96 1c3e458d
+67 40 1 B
+frame 10 96 96 c8c214c9
+67 40 1 B
+frame 11 96 96 d242c0bc
+67 40 1 B
+frame 12 96 96 562b9017
+67 40 1 B
+frame 13 96 96 8868fcd5
+67 40 1 B
+frame 14 96 96 009ead70
+67 40 1 B
+frame 15 96 96 009ead70
+67 40 1 B
+frame 16 96 96 eb26b47b
+67 40 1 B
+frame 17 96 96 c9244e42
+67 40 1 B
+frame 18 96 96 2eed5f2a
+67 40 1 B
+frame 19 96 96 5115dc54
+67 40 1 B

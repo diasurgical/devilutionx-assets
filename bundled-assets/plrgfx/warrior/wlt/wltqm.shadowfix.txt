@@ -1,0 +1,43 @@
+# Black pixels of wltqm that the shadow rule takes for shadow and that belong to the sprite.
+# Made by `shadow_search fixes`, see https://github.com/diasurgical/devilutionx-shadow-corrections
+shadowfix 1
+list 20
+list 20
+list 20
+frame 3 96 96 172eddf6
+66 34 2 B
+list 20
+list 20
+list 20
+frame 17 96 96 d4c8e113
+67 52 1 B
+list 20
+frame 16 96 96 e25005f9
+69 41 1 B
+frame 19 96 96 05af27c1
+68 40 1 B
+list 20
+frame 8 96 96 5da84a63
+66 34 1 B
+67 34 1 B
+68 35 1 B
+frame 9 96 96 2d002233
+66 33 1 B
+67 33 2 B
+68 35 1 B
+frame 10 96 96 883f936d
+66 34 1 B
+67 33 2 B
+68 35 1 B
+frame 11 96 96 5c3ca2a5
+66 34 1 B
+frame 12 96 96 dfd8d584
+66 34 1 B
+67 33 1 B
+68 35 1 B
+frame 13 96 96 68f3b009
+66 33 2 B
+67 33 2 B
+frame 14 96 96 4c8c8e0f
+66 33 2 B
+67 33 2 B

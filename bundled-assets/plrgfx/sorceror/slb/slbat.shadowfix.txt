@@ -1,0 +1,128 @@
+# Black pixels of slbat that the shadow rule takes for shadow and that belong to the sprite.
+# Made by `shadow_search fixes`, see https://github.com/diasurgical/devilutionx-shadow-corrections
+shadowfix 1
+list 20
+list 20
+list 20
+frame 12 128 128 e47eab49
+98 57 1 B
+frame 14 128 128 ab96c5e2
+98 57 1 B
+frame 15 128 128 327415d5
+97 57 1 B
+98 57 1 B
+frame 16 128 128 6dbb1546
+97 57 1 B
+98 57 2 B
+99 58 1 B
+frame 18 128 128 a5e1ce72
+97 58 1 B
+98 58 1 B
+99 59 1 B
+100 59 1 B
+list 20
+frame 0 128 128 6d2df6cd
+109 67 1 B
+frame 2 128 128 f80417b6
+105 65 1 B
+frame 7 128 128 0da9311c
+109 58 1 B
+frame 11 128 128 8324f2d8
+106 64 1 B
+frame 12 128 128 25bbe035
+108 58 1 B
+frame 14 128 128 a6eda1b2
+108 58 1 B
+frame 16 128 128 8ff9f3db
+104 65 1 B
+list 20
+frame 4 128 128 414f28b7
+107 58 1 B
+frame 8 128 128 f36ae0cf
+107 55 1 B
+frame 9 128 128 d7c8c5f9
+106 55 1 B
+107 55 1 B
+frame 10 128 128 c39ccebd
+106 55 1 B
+frame 11 128 128 48ae1faa
+104 56 1 B
+106 55 1 B
+frame 12 128 128 e1f8c57e
+104 56 1 B
+106 55 1 B
+frame 18 128 128 d1b62b44
+103 60 1 B
+list 20
+frame 2 128 128 f0549fdb
+105 55 1 B
+frame 3 128 128 cfc0acd5
+103 55 1 B
+104 55 1 B
+frame 4 128 128 da274ca2
+102 55 1 B
+frame 6 128 128 03535ea7
+102 54 1 B
+103 54 1 B
+frame 7 128 128 009e8b6c
+103 53 1 B
+frame 8 128 128 4618f90c
+102 53 1 B
+frame 9 128 128 e67c2367
+96 61 1 B
+98 60 1 B
+99 60 1 B
+101 53 1 B
+102 52 1 B
+frame 10 128 128 b108b428
+96 61 1 B
+98 60 1 B
+99 60 1 B
+101 53 1 B
+102 52 1 B
+frame 13 128 128 d79ea7ec
+100 53 1 B
+101 52 1 B
+102 51 2 B
+frame 14 128 128 461a369b
+100 53 1 B
+101 52 1 B
+102 51 1 B
+frame 15 128 128 05037c19
+95 61 1 B
+97 60 1 B
+frame 16 128 128 4ba52775
+104 59 1 B
+105 59 1 B
+frame 19 128 128 fe2d2409
+104 55 1 B
+105 55 1 B
+list 20
+frame 4 128 128 c1a9d886
+100 58 1 B
+101 57 1 B
+102 57 1 B
+103 56 1 B
+104 56 1 B
+108 56 1 B
+list 20
+frame 2 128 128 8f4bf43a
+98 60 1 B
+99 60 1 B
+frame 3 128 128 46e540ab
+97 60 1 B
+103 54 1 B
+frame 4 128 128 197d4b47
+97 61 1 B
+frame 10 128 128 ffd76b83
+99 58 1 B
+frame 11 128 128 26fdf49c
+98 58 1 B
+99 54 1 B
+frame 12 128 128 1ed9816f
+98 58 1 B
+frame 14 128 128 de4c6889
+98 54 1 B
+98 58 1 B
+frame 19 128 128 51819c01
+103 54 1 B

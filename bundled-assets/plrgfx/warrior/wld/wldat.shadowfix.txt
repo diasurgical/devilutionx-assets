@@ -1,0 +1,112 @@
+# Black pixels of wldat that the shadow rule takes for shadow and that belong to the sprite.
+# Made by `shadow_search fixes`, see https://github.com/diasurgical/devilutionx-shadow-corrections
+shadowfix 1
+list 16
+frame 7 128 128 c6ea3875
+106 66 1 B
+frame 8 128 128 8730b8af
+106 67 1 B
+frame 9 128 128 1e05db4a
+101 55 1 B
+frame 11 128 128 cbd13491
+105 65 1 B
+frame 13 128 128 e7500f0e
+105 62 2 B
+frame 14 128 128 17f17b41
+104 61 1 B
+105 61 2 B
+frame 15 128 128 2e60cfc7
+105 59 1 B
+list 16
+frame 0 128 128 006f51a2
+100 52 1 B
+101 51 2 B
+frame 2 128 128 bf4329ce
+97 54 1 B
+98 54 2 B
+frame 3 128 128 dfb57c5d
+97 53 1 B
+97 56 1 B
+98 53 2 B
+list 16
+frame 5 128 128 cf9b220e
+97 47 1 B
+98 47 1 B
+frame 6 128 128 dc4e51bb
+98 47 1 B
+99 46 2 B
+frame 14 128 128 3b098f51
+96 53 1 B
+97 53 1 B
+frame 15 128 128 73b8f76f
+96 50 1 B
+list 16
+frame 5 128 128 f48c42a5
+99 76 1 B
+frame 8 128 128 f3ce4e54
+97 52 1 B
+frame 10 128 128 5037fdac
+101 53 1 B
+frame 14 128 128 bfa30f4e
+100 75 1 B
+frame 15 128 128 8fe4cbde
+101 74 1 B
+list 16
+frame 0 128 128 d6ad44d9
+103 65 2 B
+104 66 2 B
+frame 1 128 128 0b9a6f06
+103 66 2 B
+104 65 4 B
+frame 2 128 128 0a5e8ba9
+103 66 1 B
+frame 3 128 128 727ddf5e
+103 67 3 B
+104 68 2 B
+frame 4 128 128 bd15b78f
+103 68 1 B
+frame 5 128 128 2bcca36a
+102 71 1 B
+103 69 3 B
+frame 15 128 128 df905c82
+103 66 2 B
+104 65 4 B
+list 16
+frame 0 128 128 984ee2b8
+101 56 1 B
+103 57 1 B
+frame 1 128 128 b6d71f08
+103 56 2 B
+104 57 1 B
+frame 2 128 128 a575deec
+104 57 1 B
+frame 3 128 128 e8c60127
+105 58 1 B
+frame 5 128 128 18e6c1e7
+104 61 1 B
+frame 6 128 128 de020eb0
+105 63 1 B
+frame 11 128 128 4b3f6ea1
+106 64 1 B
+list 16
+frame 5 128 128 cc1e480a
+102 51 1 B
+103 51 1 B
+frame 8 128 128 e5b5ec11
+97 57 2 B
+frame 9 128 128 47abc19c
+110 51 1 B
+frame 11 128 128 ebd0955b
+97 57 1 B
+103 54 1 B
+104 54 1 B
+frame 12 128 128 eecf1296
+103 52 1 B
+frame 13 128 128 75019c80
+102 52 1 B
+103 52 1 B
+list 16
+frame 7 128 128 46cb65db
+98 49 1 B
+frame 12 128 128 56a7278b
+103 69 1 B

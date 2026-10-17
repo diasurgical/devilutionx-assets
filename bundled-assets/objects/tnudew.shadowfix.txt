@@ -1,0 +1,7 @@
+# Black pixels of tnudew that the shadow rule takes for shadow and that belong to the sprite.
+# Made by `shadow_search fixes`, see https://github.com/diasurgical/devilutionx-shadow-corrections
+shadowfix 1
+list 3
+frame 2 128 128 6704e32c
+113 52 1 B
+115 60 1 B

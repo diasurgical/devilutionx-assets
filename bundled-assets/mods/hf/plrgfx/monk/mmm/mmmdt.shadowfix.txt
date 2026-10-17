@@ -1,0 +1,43 @@
+# Black pixels of mmmdt that the shadow rule takes for shadow and that belong to the sprite.
+# Made by `shadow_search fixes`, see https://github.com/diasurgical/devilutionx-shadow-corrections
+shadowfix 1
+list 20
+frame 6 160 128 3eb4f60b
+103 66 1 B
+108 68 1 B
+frame 7 160 128 c1fe5d00
+102 64 1 B
+frame 9 160 128 5afb313c
+104 71 1 B
+106 72 1 B
+107 71 1 B
+108 71 1 B
+list 20
+frame 3 160 128 bb3b157a
+102 74 1 B
+103 75 1 B
+frame 5 160 128 65504a76
+96 69 1 B
+97 69 1 B
+list 20
+frame 5 160 128 26a5ac8e
+108 68 1 B
+frame 7 160 128 c1fc9ad3
+111 68 1 B
+list 20
+frame 3 160 128 c931d1cf
+102 70 1 B
+frame 4 160 128 33efd13c
+101 70 1 B
+list 20
+list 20
+frame 11 160 128 f23177f3
+108 80 1 B
+list 20
+frame 2 160 128 027bda04
+105 88 1 B
+frame 4 160 128 73f45715
+105 90 2 B
+frame 5 160 128 612d5220
+106 90 1 B
+list 20
