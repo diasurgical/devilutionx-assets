@@ -1,0 +1,154 @@
+# Black pixels of rhdas that the shadow rule takes for shadow and that belong to the sprite.
+# Made by `shadow_search fixes`, see https://github.com/diasurgical/devilutionx-shadow-corrections
+shadowfix 1
+list 8
+frame 0 96 96 c0c2350d
+65 38 1 B
+74 51 2 B
+75 52 1 B
+frame 1 96 96 1f6e11d5
+75 51 2 B
+frame 2 96 96 21d15ebb
+65 37 1 B
+72 51 1 B
+75 52 1 B
+frame 3 96 96 86abbaea
+72 50 1 B
+frame 4 96 96 5a076ce5
+73 51 1 B
+frame 5 96 96 f0587868
+65 37 1 B
+72 50 1 B
+frame 6 96 96 03877482
+72 51 1 B
+75 52 1 B
+frame 7 96 96 d30454c8
+71 51 1 B
+75 51 2 B
+78 38 1 B
+list 8
+frame 0 96 96 72cc6785
+76 45 1 B
+frame 1 96 96 6d4c8120
+76 44 1 B
+frame 2 96 96 edc91475
+72 42 1 B
+73 41 1 B
+76 44 1 B
+frame 3 96 96 ddaf80ea
+73 40 2 B
+frame 4 96 96 bcc9def4
+73 40 1 B
+76 43 1 B
+frame 5 96 96 a90f2d84
+73 40 2 B
+76 43 2 B
+frame 6 96 96 1f8751d1
+73 41 1 B
+76 44 1 B
+frame 7 96 96 4267a8e9
+75 44 1 B
+76 44 2 B
+list 8
+frame 0 96 96 055ca676
+65 36 1 B
+66 36 1 B
+69 35 1 B
+frame 1 96 96 8dc28926
+65 34 1 B
+66 34 2 B
+67 35 1 B
+frame 3 96 96 725eeee4
+72 34 1 B
+frame 4 96 96 a664929b
+72 34 1 B
+frame 5 96 96 864cbe54
+70 32 1 B
+75 36 1 B
+frame 7 96 96 312ae16f
+66 34 2 B
+67 35 1 B
+list 8
+frame 0 96 96 9b59ada5
+67 33 1 B
+80 35 1 B
+frame 1 96 96 4767869a
+67 32 1 B
+73 34 1 B
+80 34 2 B
+frame 2 96 96 fc30eab4
+80 35 1 B
+frame 3 96 96 08d9c37a
+72 33 1 B
+80 35 1 B
+frame 4 96 96 ae507511
+80 34 2 B
+frame 5 96 96 9fd22640
+80 34 2 B
+frame 6 96 96 c1b18995
+65 32 1 B
+80 34 2 B
+frame 7 96 96 2b4027da
+73 34 1 B
+80 34 2 B
+list 8
+list 8
+frame 1 96 96 58dce4d6
+68 42 1 B
+frame 2 96 96 71f0591f
+69 45 1 B
+83 40 1 B
+frame 3 96 96 d315f4ac
+69 45 1 B
+70 44 1 B
+frame 5 96 96 d427ca04
+69 45 1 B
+list 8
+frame 0 96 96 7a49d5dd
+65 40 1 B
+68 40 1 B
+69 41 1 B
+75 48 1 B
+frame 1 96 96 53b58a5c
+66 41 1 B
+frame 3 96 96 320378fb
+68 42 1 B
+71 42 1 B
+72 43 1 B
+frame 4 96 96 e3a6d326
+67 42 1 B
+68 42 1 B
+71 42 1 B
+72 43 1 B
+frame 5 96 96 63d9f38d
+71 42 1 B
+frame 6 96 96 44854e8d
+71 42 1 B
+frame 7 96 96 4b4c0116
+69 41 1 B
+list 8
+frame 0 96 96 b7c3eeed
+67 38 1 B
+frame 1 96 96 01651fec
+68 37 1 B
+69 38 1 B
+frame 2 96 96 e0102775
+65 38 1 B
+66 38 1 B
+70 38 1 B
+frame 3 96 96 50970f1b
+66 38 1 B
+70 37 1 B
+frame 4 96 96 af2c0a27
+66 38 1 B
+67 38 1 B
+frame 5 96 96 8b7176fb
+70 37 1 B
+frame 6 96 96 37650930
+65 38 1 B
+66 38 1 B
+69 37 1 B
+75 53 1 B
+frame 7 96 96 0b6379b2
+65 38 1 B
+68 37 1 B

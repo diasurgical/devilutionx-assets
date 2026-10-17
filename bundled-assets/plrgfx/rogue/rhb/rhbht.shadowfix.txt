@@ -1,0 +1,129 @@
+# Black pixels of rhbht that the shadow rule takes for shadow and that belong to the sprite.
+# Made by `shadow_search fixes`, see https://github.com/diasurgical/devilutionx-shadow-corrections
+shadowfix 1
+list 7
+frame 0 96 96 bfe5c69b
+66 41 1 B
+70 42 1 B
+74 45 1 B
+75 46 1 B
+76 47 1 B
+frame 1 96 96 ef86674f
+75 46 1 B
+76 47 1 B
+frame 2 96 96 2d86ed96
+75 46 1 B
+76 47 1 B
+frame 3 96 96 02d1fa3f
+70 44 1 B
+74 45 1 B
+frame 4 96 96 f3e39fc1
+74 46 1 B
+75 47 1 B
+frame 5 96 96 98d15eb7
+71 44 2 B
+75 47 1 B
+list 7
+frame 0 96 96 965af2a5
+69 39 1 B
+70 39 1 B
+83 42 1 B
+frame 1 96 96 0be7c6f0
+65 38 1 B
+70 39 1 B
+71 39 1 B
+83 42 1 B
+frame 3 96 96 6690e428
+64 38 1 B
+65 38 2 B
+68 37 1 B
+73 40 1 B
+76 41 1 B
+frame 4 96 96 f8ed876a
+64 38 1 B
+65 38 2 B
+68 37 1 B
+frame 5 96 96 cd68adad
+69 37 1 B
+71 39 1 B
+list 7
+frame 0 96 96 be90341c
+80 36 1 B
+frame 2 96 96 7496a1cf
+64 38 1 B
+80 37 1 B
+frame 4 96 96 bc621a3b
+64 37 1 B
+frame 5 96 96 6570eb77
+63 40 2 B
+64 40 1 B
+65 39 1 B
+67 36 1 B
+80 37 2 B
+frame 6 96 96 5918af10
+67 36 1 B
+78 56 1 B
+80 37 1 B
+list 7
+frame 0 96 96 d51a99fc
+63 44 1 B
+frame 1 96 96 ef392c39
+63 40 1 B
+64 39 1 B
+frame 2 96 96 a0c95a9f
+65 39 1 B
+frame 5 96 96 6d17d77a
+78 38 1 B
+list 7
+frame 2 96 96 eba9199a
+77 48 1 B
+frame 4 96 96 c92f819f
+69 55 1 B
+83 47 1 B
+frame 5 96 96 5ee0f94b
+69 55 1 B
+frame 6 96 96 f4c2b1f5
+69 55 1 B
+list 7
+frame 0 96 96 c20bb32a
+72 46 1 B
+frame 2 96 96 820907d2
+68 45 1 B
+68 52 1 B
+70 50 2 B
+71 46 1 B
+71 50 1 B
+frame 3 96 96 ea193c3c
+71 46 1 B
+frame 4 96 96 838b1c17
+70 50 2 B
+frame 5 96 96 9fa628a1
+68 46 1 B
+70 51 1 B
+71 47 1 B
+frame 6 96 96 dd3c012d
+68 46 1 B
+70 51 1 B
+list 7
+frame 0 96 96 68d122c9
+70 38 1 B
+74 38 1 B
+frame 1 96 96 d0c31577
+70 38 2 B
+frame 3 96 96 ffccabc6
+64 39 1 B
+67 39 2 B
+70 39 1 B
+frame 4 96 96 a9a0e99c
+70 39 1 B
+78 55 1 B
+list 7
+frame 1 96 96 69576fff
+64 36 1 B
+frame 2 96 96 995733e0
+64 36 1 B
+frame 3 96 96 9d5ed605
+64 36 1 B
+67 36 1 B
+frame 4 96 96 67a732c2
+67 36 1 B

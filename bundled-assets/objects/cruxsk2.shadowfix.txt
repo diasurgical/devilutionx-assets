@@ -1,0 +1,22 @@
+# Black pixels of cruxsk2 that the shadow rule takes for shadow and that belong to the sprite.
+# Made by `shadow_search fixes`, see https://github.com/diasurgical/devilutionx-shadow-corrections
+shadowfix 1
+list 15
+frame 1 96 128 2cc48875
+103 46 1 B
+frame 3 96 128 de64c35e
+104 46 1 B
+frame 4 96 128 5a052c05
+93 45 1 B
+frame 6 96 128 61d148c2
+98 46 1 B
+frame 9 96 128 84778f00
+107 40 2 B
+107 43 1 B
+108 40 1 B
+frame 12 96 128 04c2f438
+108 40 1 B
+frame 13 96 128 49c8d0e4
+108 40 1 B
+frame 14 96 128 306807af
+108 40 1 B

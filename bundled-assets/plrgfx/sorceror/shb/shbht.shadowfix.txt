@@ -1,0 +1,99 @@
+# Black pixels of shbht that the shadow rule takes for shadow and that belong to the sprite.
+# Made by `shadow_search fixes`, see https://github.com/diasurgical/devilutionx-shadow-corrections
+shadowfix 1
+list 8
+frame 0 96 96 5659e90b
+66 40 1 B
+frame 1 96 96 a9ab0769
+66 40 1 B
+frame 2 96 96 6485fb96
+67 40 1 B
+frame 3 96 96 1c28f2d1
+67 40 1 B
+frame 4 96 96 7519b34a
+67 40 1 B
+frame 5 96 96 8d27f9a4
+67 40 1 B
+frame 6 96 96 78565758
+67 40 2 B
+frame 7 96 96 64ac4406
+67 40 2 B
+list 8
+frame 0 96 96 76d590cf
+69 48 1 B
+frame 1 96 96 ac70a4b8
+70 46 2 B
+frame 2 96 96 659c73d8
+70 46 2 B
+frame 3 96 96 09379e3d
+70 46 2 B
+71 46 1 B
+frame 4 96 96 be8b7149
+69 45 1 B
+70 46 1 B
+71 46 1 B
+frame 5 96 96 b39fa478
+71 46 1 B
+frame 6 96 96 e4b867de
+71 46 1 B
+frame 7 96 96 28aa1649
+70 45 2 B
+71 46 1 B
+list 8
+frame 0 96 96 8f2598ee
+67 41 2 B
+frame 1 96 96 439eb662
+67 41 1 B
+69 40 1 B
+frame 2 96 96 82e4bc63
+67 41 1 B
+69 40 1 B
+76 53 2 B
+frame 3 96 96 dac4a8c0
+76 52 2 B
+frame 4 96 96 16a84307
+71 40 1 B
+frame 5 96 96 8400e28b
+67 40 2 B
+71 40 1 B
+frame 6 96 96 637aaa06
+65 44 1 B
+67 43 1 B
+68 44 1 B
+frame 7 96 96 7e21ccc4
+67 43 1 B
+list 8
+list 8
+frame 1 96 96 c6ba9632
+68 43 1 B
+frame 2 96 96 ce75ed61
+67 43 1 B
+68 43 1 B
+75 37 1 B
+list 8
+frame 4 96 96 bdc1f690
+76 42 1 B
+77 42 1 B
+frame 5 96 96 56aa3824
+68 51 1 B
+list 8
+frame 0 96 96 dcb0a516
+70 43 1 B
+frame 2 96 96 de9baf2e
+70 44 1 B
+frame 3 96 96 494605bc
+68 44 1 B
+frame 5 96 96 d6f3397d
+68 45 1 B
+69 45 1 B
+frame 6 96 96 65cc7597
+68 45 1 B
+69 46 1 B
+75 38 1 B
+frame 7 96 96 7a5224ea
+69 47 1 B
+list 8
+frame 0 96 96 75cf4da8
+67 38 1 B
+68 38 2 B
+69 39 2 B

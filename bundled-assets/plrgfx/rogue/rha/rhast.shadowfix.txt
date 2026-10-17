@@ -1,0 +1,501 @@
+# Black pixels of rhast that the shadow rule takes for shadow and that belong to the sprite.
+# Made by `shadow_search fixes`, see https://github.com/diasurgical/devilutionx-shadow-corrections
+shadowfix 1
+list 20
+frame 0 96 96 f1fb3fae
+66 41 1 B
+frame 1 96 96 633d30a3
+66 41 2 B
+74 52 1 B
+frame 2 96 96 0158bde6
+72 41 1 B
+73 52 1 B
+74 52 1 B
+frame 3 96 96 e90bd232
+66 42 1 B
+70 51 1 B
+73 52 1 B
+74 52 1 B
+frame 4 96 96 e951fc40
+65 41 1 B
+66 42 1 B
+70 41 1 B
+70 51 1 B
+71 51 1 B
+72 52 1 B
+73 52 1 B
+frame 5 96 96 fbeb1763
+66 42 1 B
+70 51 2 B
+71 51 1 B
+71 53 1 B
+72 41 1 B
+72 52 2 B
+73 52 1 B
+frame 6 96 96 723b34dc
+66 42 1 B
+70 51 2 B
+71 41 1 B
+71 51 1 B
+71 53 1 B
+72 51 3 B
+73 52 1 B
+frame 7 96 96 2cadd882
+66 42 1 B
+70 51 2 B
+71 51 3 B
+72 51 3 B
+frame 8 96 96 4a41c611
+66 42 2 B
+70 52 2 B
+71 41 1 B
+71 51 3 B
+72 52 2 B
+frame 9 96 96 7b218184
+70 52 2 B
+71 41 1 B
+71 51 3 B
+72 52 2 B
+frame 10 96 96 020541e6
+66 42 2 B
+70 51 3 B
+71 41 1 B
+71 51 3 B
+72 52 2 B
+frame 11 96 96 4233a961
+66 42 1 B
+70 51 2 B
+71 41 1 B
+71 51 3 B
+72 52 2 B
+frame 12 96 96 06856f3e
+66 42 2 B
+70 51 2 B
+71 51 3 B
+72 52 2 B
+frame 13 96 96 a646b473
+66 42 1 B
+70 41 1 B
+70 51 2 B
+71 51 3 B
+72 52 2 B
+73 41 1 B
+frame 14 96 96 7b8e3f2f
+66 42 1 B
+70 41 1 B
+70 51 1 B
+71 51 1 B
+72 52 2 B
+73 52 1 B
+frame 15 96 96 846547ae
+66 42 1 B
+70 41 1 B
+70 51 1 B
+71 51 1 B
+72 52 2 B
+73 52 1 B
+frame 16 96 96 f96c5f5a
+65 41 1 B
+66 42 1 B
+70 51 1 B
+71 51 1 B
+72 52 2 B
+73 52 1 B
+74 52 1 B
+frame 17 96 96 318b7a7c
+71 51 1 B
+72 52 1 B
+73 52 1 B
+74 52 1 B
+frame 18 96 96 f6e4639e
+71 51 1 B
+72 40 1 B
+73 52 1 B
+74 52 1 B
+frame 19 96 96 0e2b76b3
+66 41 1 B
+74 52 1 B
+list 20
+frame 0 96 96 e882b3bd
+72 51 1 B
+frame 1 96 96 6f3f211c
+71 51 1 B
+72 51 2 B
+77 41 1 B
+frame 2 96 96 38017606
+72 51 2 B
+77 41 1 B
+frame 3 96 96 60a99fab
+72 52 1 B
+frame 5 96 96 b9f32c57
+72 52 1 B
+73 51 1 B
+frame 6 96 96 12f1e688
+72 51 2 B
+73 51 1 B
+76 52 1 B
+frame 7 96 96 6f7a0a56
+72 51 2 B
+73 51 1 B
+75 52 1 B
+76 52 1 B
+frame 8 96 96 d15e1de3
+72 51 2 B
+73 51 1 B
+76 52 1 B
+frame 9 96 96 c0e2e4d0
+72 51 2 B
+73 51 2 B
+75 52 1 B
+76 52 1 B
+frame 10 96 96 9ce88566
+72 51 2 B
+73 51 1 B
+76 52 1 B
+frame 11 96 96 fe06e2ee
+72 51 2 B
+73 51 1 B
+75 52 1 B
+76 52 1 B
+frame 12 96 96 8f552f9e
+72 51 2 B
+73 51 1 B
+75 52 1 B
+76 52 1 B
+frame 13 96 96 4251d7e2
+68 44 1 B
+72 51 2 B
+73 51 1 B
+76 52 1 B
+frame 14 96 96 a5be2b42
+72 52 1 B
+73 51 1 B
+frame 15 96 96 8eae6a54
+72 51 2 B
+frame 16 96 96 95084f4c
+72 51 2 B
+frame 17 96 96 2938d75e
+64 42 1 B
+frame 18 96 96 3772c353
+64 42 1 B
+72 51 2 B
+77 41 1 B
+frame 19 96 96 c51aaeea
+64 42 1 B
+72 51 2 B
+77 41 1 B
+list 20
+frame 0 96 96 2b1647c7
+73 47 1 B
+frame 1 96 96 2b64e9e1
+73 48 1 B
+74 48 1 B
+frame 3 96 96 bf6693dc
+73 47 1 B
+frame 4 96 96 a9ba6020
+73 47 1 B
+frame 5 96 96 fdf4c877
+73 47 1 B
+frame 6 96 96 96eee9a2
+73 47 1 B
+74 48 1 B
+frame 7 96 96 8e5c2354
+73 47 1 B
+frame 8 96 96 7223de29
+73 47 1 B
+74 47 1 B
+frame 9 96 96 e80cf52b
+73 47 1 B
+74 47 2 B
+frame 10 96 96 e12700fb
+73 47 1 B
+74 47 2 B
+frame 11 96 96 9f953581
+73 47 1 B
+74 48 1 B
+frame 12 96 96 11a9d846
+73 47 1 B
+frame 13 96 96 de51614c
+73 47 1 B
+frame 14 96 96 f612c93e
+73 47 1 B
+frame 15 96 96 863f3d44
+73 47 1 B
+frame 16 96 96 96f1263b
+73 47 1 B
+74 48 1 B
+frame 18 96 96 4fe78a85
+74 48 1 B
+frame 19 96 96 9a65d8ac
+73 48 1 B
+74 48 1 B
+list 20
+frame 0 96 96 73346f55
+74 51 1 B
+frame 1 96 96 671521ef
+63 39 1 B
+72 43 1 B
+74 51 1 B
+frame 2 96 96 68793fad
+73 43 1 B
+74 51 1 B
+frame 3 96 96 088f9b60
+66 42 1 B
+73 43 1 B
+74 51 1 B
+frame 4 96 96 16c7b7ec
+66 42 1 B
+74 43 1 B
+74 51 1 B
+frame 5 96 96 eebe7427
+73 51 1 B
+74 43 1 B
+74 51 1 B
+frame 6 96 96 665e3e83
+73 51 1 B
+74 43 1 B
+74 51 1 B
+frame 7 96 96 8be4db93
+67 50 1 B
+68 50 1 B
+73 51 1 B
+74 43 1 B
+74 51 1 B
+77 50 1 B
+frame 8 96 96 40465458
+67 50 1 B
+73 51 1 B
+74 43 1 B
+74 51 1 B
+77 50 1 B
+frame 9 96 96 4c649a61
+73 51 1 B
+74 43 1 B
+74 51 1 B
+frame 10 96 96 d28e8c60
+67 50 1 B
+73 51 1 B
+74 43 1 B
+74 51 1 B
+77 50 1 B
+frame 11 96 96 0f0d62d2
+67 50 1 B
+73 51 1 B
+74 43 1 B
+74 51 1 B
+frame 12 96 96 994407d8
+67 50 1 B
+73 51 1 B
+74 43 1 B
+74 51 1 B
+frame 13 96 96 e1ce216c
+73 51 1 B
+74 43 1 B
+74 51 1 B
+frame 14 96 96 eedc5d7d
+73 51 1 B
+74 43 1 B
+74 51 1 B
+frame 15 96 96 8f68b644
+73 51 1 B
+74 43 1 B
+74 51 1 B
+frame 16 96 96 73f295ba
+73 51 1 B
+74 51 1 B
+frame 17 96 96 0b70c702
+73 43 1 B
+73 51 1 B
+74 51 1 B
+frame 18 96 96 d23462f5
+73 43 1 B
+74 51 1 B
+frame 19 96 96 5caff70c
+63 39 1 B
+74 51 1 B
+list 20
+frame 0 96 96 846c3e91
+64 41 2 B
+65 41 1 B
+71 51 1 B
+frame 1 96 96 ecb8863e
+64 41 2 B
+frame 3 96 96 49773dbd
+64 40 2 B
+65 40 1 B
+frame 4 96 96 841672ee
+64 40 2 B
+65 40 1 B
+frame 5 96 96 bb616dcc
+64 40 2 B
+65 40 1 B
+frame 6 96 96 16d5d6cd
+64 40 2 B
+65 40 1 B
+frame 9 96 96 00fbea31
+80 40 1 B
+frame 12 96 96 ad18a396
+80 40 1 B
+frame 13 96 96 9d264562
+64 40 2 B
+80 39 2 B
+frame 14 96 96 49b776be
+64 40 2 B
+65 40 1 B
+frame 15 96 96 f0e094b7
+64 40 2 B
+65 40 1 B
+frame 16 96 96 9d54f7f8
+64 40 2 B
+65 40 1 B
+frame 17 96 96 4b5d6766
+64 40 2 B
+65 40 1 B
+frame 18 96 96 ecc980e1
+64 40 2 B
+frame 19 96 96 33e77732
+64 41 2 B
+65 41 1 B
+66 40 1 B
+list 20
+frame 3 96 96 675ec5a5
+71 48 1 B
+frame 4 96 96 b5b23a7b
+72 40 1 B
+frame 6 96 96 209c38d6
+72 40 1 B
+frame 13 96 96 317ef773
+72 40 1 B
+frame 15 96 96 fbba5f54
+72 40 1 B
+list 20
+frame 0 96 96 d0e26b6e
+71 44 1 B
+72 44 1 B
+frame 1 96 96 bdf0525e
+71 44 1 B
+72 44 1 B
+frame 2 96 96 1e5c18e7
+71 44 1 B
+frame 3 96 96 63c2d637
+71 44 1 B
+frame 4 96 96 3e2a8b6c
+71 44 1 B
+74 44 1 B
+75 44 1 B
+frame 5 96 96 0f709a14
+74 44 1 B
+75 44 1 B
+frame 6 96 96 3e15e69d
+70 44 1 B
+72 44 1 B
+75 44 1 B
+frame 7 96 96 24ef9535
+70 44 1 B
+72 44 1 B
+74 44 1 B
+75 44 1 B
+frame 8 96 96 bf789015
+70 44 1 B
+74 44 1 B
+75 44 1 B
+frame 9 96 96 c75914f9
+70 44 1 B
+74 44 1 B
+frame 10 96 96 c3b98f53
+70 44 1 B
+74 44 1 B
+frame 11 96 96 b5e20ba1
+70 44 1 B
+74 44 1 B
+75 44 1 B
+frame 12 96 96 5f236045
+72 44 1 B
+74 44 1 B
+75 44 1 B
+82 45 1 B
+frame 13 96 96 b980a094
+72 44 1 B
+75 44 1 B
+frame 14 96 96 c60ca30d
+74 44 1 B
+75 44 1 B
+frame 15 96 96 f6cd0d71
+71 44 1 B
+74 44 1 B
+75 44 1 B
+frame 16 96 96 b0ec95fa
+71 44 1 B
+72 44 1 B
+74 44 1 B
+75 44 1 B
+frame 17 96 96 b348da4d
+71 44 1 B
+72 44 1 B
+frame 18 96 96 a6d5e97a
+71 44 1 B
+72 44 1 B
+73 44 1 B
+frame 19 96 96 86c070f4
+71 44 1 B
+72 44 1 B
+list 20
+frame 0 96 96 90984c18
+72 48 1 B
+frame 2 96 96 734d4dba
+72 48 1 B
+frame 3 96 96 7c1fc9f5
+71 48 1 B
+72 48 1 B
+frame 4 96 96 9cd9fb00
+71 48 1 B
+72 48 1 B
+frame 5 96 96 a755c21d
+63 43 1 B
+71 41 1 B
+71 48 1 B
+72 41 1 B
+72 48 1 B
+frame 6 96 96 42ce3442
+63 43 1 B
+67 44 1 B
+71 48 1 B
+72 48 1 B
+frame 7 96 96 be591f3c
+67 44 1 B
+71 48 1 B
+frame 8 96 96 8962af18
+71 48 1 B
+frame 9 96 96 d6aea13d
+71 48 1 B
+frame 10 96 96 2921850d
+71 48 1 B
+frame 11 96 96 0a1beace
+67 44 1 B
+71 48 1 B
+frame 12 96 96 e07a5c8c
+67 44 1 B
+71 48 1 B
+72 48 1 B
+frame 13 96 96 be105852
+67 44 1 B
+71 48 1 B
+72 48 1 B
+frame 14 96 96 fceb6cfb
+67 44 1 B
+71 41 1 B
+71 48 1 B
+72 41 1 B
+72 48 1 B
+frame 15 96 96 42341b58
+71 48 1 B
+72 48 1 B
+frame 16 96 96 cbcf25a2
+71 48 1 B
+72 48 1 B
+frame 17 96 96 80986bb7
+72 48 1 B
+frame 18 96 96 042c88b7
+72 48 1 B
+frame 19 96 96 f577e84f
+72 48 1 B

@@ -1,0 +1,30 @@
+# Black pixels of slast that the shadow rule takes for shadow and that belong to the sprite.
+# Made by `shadow_search fixes`, see https://github.com/diasurgical/devilutionx-shadow-corrections
+shadowfix 1
+list 20
+list 20
+list 20
+list 20
+frame 18 96 96 55cd73f9
+63 39 1 B
+list 20
+frame 11 96 96 31204c6e
+71 46 1 B
+72 46 1 B
+frame 13 96 96 900c69dd
+76 44 1 B
+frame 16 96 96 0da100c2
+72 46 1 B
+list 20
+frame 4 96 96 4b6b3adf
+76 43 1 B
+frame 5 96 96 9d12cc43
+76 43 1 B
+list 20
+frame 6 96 96 dd0bbfe8
+69 39 1 B
+list 20
+frame 4 96 96 bba9edc5
+76 41 1 B
+frame 5 96 96 a5429e40
+76 41 1 B

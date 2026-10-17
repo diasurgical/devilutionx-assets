@@ -1,0 +1,20 @@
+# Black pixels of rmast that the shadow rule takes for shadow and that belong to the sprite.
+# Made by `shadow_search fixes`, see https://github.com/diasurgical/devilutionx-shadow-corrections
+shadowfix 1
+list 20
+list 20
+list 20
+list 20
+frame 1 96 96 480c6d32
+64 39 1 B
+frame 10 96 96 7e70efb7
+64 38 1 B
+65 38 1 B
+frame 18 96 96 be98fff0
+64 39 1 B
+frame 19 96 96 55be06f0
+63 39 1 B
+list 20
+list 20
+list 20
+list 20

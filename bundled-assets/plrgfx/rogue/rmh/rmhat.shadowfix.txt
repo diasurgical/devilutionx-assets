@@ -1,0 +1,18 @@
+# Black pixels of rmhat that the shadow rule takes for shadow and that belong to the sprite.
+# Made by `shadow_search fixes`, see https://github.com/diasurgical/devilutionx-shadow-corrections
+shadowfix 1
+list 18
+frame 8 128 128 07a8ba88
+109 56 1 B
+list 18
+list 18
+frame 9 128 128 9018a5a1
+109 46 1 B
+110 46 1 B
+list 18
+list 18
+list 18
+list 18
+list 18
+frame 8 128 128 83dca1c8
+95 64 1 B

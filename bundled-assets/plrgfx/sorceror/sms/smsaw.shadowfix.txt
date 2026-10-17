@@ -1,0 +1,26 @@
+# Black pixels of smsaw that the shadow rule takes for shadow and that belong to the sprite.
+# Made by `shadow_search fixes`, see https://github.com/diasurgical/devilutionx-shadow-corrections
+shadowfix 1
+list 8
+list 8
+list 8
+frame 5 96 96 e43aaac5
+75 40 1 B
+76 40 1 B
+frame 6 96 96 2f1436c8
+65 38 1 B
+67 39 1 B
+list 8
+frame 2 96 96 e4b685b3
+79 40 1 B
+frame 6 96 96 7428cb7a
+77 43 1 B
+list 8
+list 8
+list 8
+list 8
+frame 3 96 96 23d6d37e
+65 39 2 B
+66 39 1 B
+69 38 1 B
+70 38 1 B

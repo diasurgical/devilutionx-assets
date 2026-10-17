@@ -1,0 +1,33 @@
+# Black pixels of whhwl that the shadow rule takes for shadow and that belong to the sprite.
+# Made by `shadow_search fixes`, see https://github.com/diasurgical/devilutionx-shadow-corrections
+shadowfix 1
+list 8
+frame 1 96 96 8bb3971b
+66 47 1 B
+76 47 1 B
+frame 2 96 96 1c28742b
+65 46 1 B
+frame 3 96 96 eccbaf52
+70 41 1 B
+frame 4 96 96 a7fe1180
+66 47 1 B
+frame 5 96 96 4080553d
+75 47 1 B
+list 8
+list 8
+list 8
+list 8
+frame 4 96 96 bcad02d0
+67 47 1 B
+frame 5 96 96 6586c36d
+74 47 1 B
+79 47 1 B
+list 8
+list 8
+list 8
+frame 3 96 96 83621071
+67 45 2 B
+frame 4 96 96 12282f09
+66 45 1 B
+67 45 2 B
+69 40 1 B

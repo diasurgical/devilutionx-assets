@@ -1,0 +1,88 @@
+# Black pixels of rlawl that the shadow rule takes for shadow and that belong to the sprite.
+# Made by `shadow_search fixes`, see https://github.com/diasurgical/devilutionx-shadow-corrections
+shadowfix 1
+list 8
+frame 1 96 96 d7d723af
+70 44 1 B
+frame 2 96 96 8fb50bc9
+80 47 1 B
+frame 4 96 96 fc1439f9
+70 43 1 B
+frame 5 96 96 c2711929
+69 43 1 B
+frame 6 96 96 2f3998e3
+72 48 1 B
+frame 7 96 96 bbc5111d
+67 43 1 B
+list 8
+list 8
+list 8
+frame 0 96 96 7269f82b
+67 38 1 B
+frame 2 96 96 b76ca29b
+69 43 1 B
+frame 3 96 96 1a536360
+77 49 1 B
+frame 5 96 96 8c973ee6
+76 43 1 B
+77 43 1 B
+frame 6 96 96 98833f5d
+66 41 1 B
+73 45 1 B
+78 47 1 B
+frame 7 96 96 8157b785
+73 41 1 B
+list 8
+frame 0 96 96 914a0ad8
+73 44 1 B
+frame 1 96 96 84dc9c03
+74 46 1 B
+frame 2 96 96 141500ae
+79 43 1 B
+frame 3 96 96 b6fabe68
+82 44 1 B
+frame 4 96 96 1dbb074a
+69 42 1 B
+70 41 1 B
+71 42 1 B
+frame 6 96 96 bb8fc17b
+80 47 1 B
+list 8
+list 8
+frame 4 96 96 39f9276f
+62 40 1 B
+63 39 1 B
+64 37 1 B
+65 36 1 B
+frame 5 96 96 09759b79
+69 49 1 B
+70 49 1 B
+list 8
+frame 0 96 96 0eeec8ba
+81 54 1 B
+82 54 1 B
+frame 1 96 96 016b4d8d
+67 37 1 B
+67 41 1 B
+75 50 1 B
+frame 2 96 96 a6131121
+68 44 1 B
+frame 3 96 96 f428ba04
+73 42 1 B
+74 42 1 B
+frame 4 96 96 dc4926ef
+71 49 1 B
+72 49 1 B
+frame 5 96 96 551f0a39
+68 45 1 B
+69 46 1 B
+70 46 1 B
+frame 6 96 96 837b9b45
+68 44 1 B
+69 44 1 B
+frame 7 96 96 6b34f10f
+66 41 1 B
+68 40 1 B
+75 51 1 B
+76 51 1 B
+79 51 1 B

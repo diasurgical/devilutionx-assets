@@ -1,0 +1,120 @@
+# Black pixels of smbst that the shadow rule takes for shadow and that belong to the sprite.
+# Made by `shadow_search fixes`, see https://github.com/diasurgical/devilutionx-shadow-corrections
+shadowfix 1
+list 20
+frame 3 96 96 f297e15a
+70 40 1 B
+frame 4 96 96 33905d36
+70 40 1 B
+frame 9 96 96 784c8fb3
+66 45 1 B
+list 20
+frame 0 96 96 124c1572
+64 41 2 B
+frame 1 96 96 8f380c2a
+64 41 2 B
+frame 2 96 96 9f636303
+64 41 2 B
+frame 3 96 96 6fa3bc42
+64 41 2 B
+66 48 1 B
+frame 4 96 96 7ff5120b
+63 40 1 B
+64 41 2 B
+frame 5 96 96 cd3e6bbc
+64 41 2 B
+frame 6 96 96 7feaad99
+63 40 1 B
+64 41 2 B
+frame 7 96 96 8fdfc4df
+64 41 2 B
+66 48 1 B
+frame 8 96 96 7e7a38c4
+64 41 2 B
+frame 9 96 96 7a76544e
+64 41 2 B
+frame 10 96 96 fd1ec1b4
+64 41 2 B
+frame 11 96 96 ca53cf8c
+64 41 2 B
+67 48 1 B
+frame 12 96 96 c8fa3767
+64 42 1 B
+frame 16 96 96 c9c463f9
+64 42 1 B
+frame 17 96 96 ea6bc447
+64 42 1 B
+frame 18 96 96 53eb53c1
+67 48 1 B
+frame 19 96 96 25f7fc47
+67 48 1 B
+list 20
+list 20
+list 20
+frame 1 96 96 df3e7d00
+74 46 1 B
+frame 10 96 96 e12b2dc7
+74 46 1 B
+frame 11 96 96 a1dcff80
+63 38 1 B
+frame 13 96 96 cf18ea47
+74 47 1 B
+frame 14 96 96 400c2330
+59 33 1 B
+frame 15 96 96 dcbef982
+59 33 1 B
+frame 16 96 96 ecd3fd92
+74 47 1 B
+frame 17 96 96 fba86fff
+71 47 1 B
+73 47 1 B
+74 47 1 B
+list 20
+frame 2 96 96 380f5b08
+79 52 1 B
+frame 3 96 96 72e3c561
+77 46 1 B
+frame 4 96 96 861f4583
+76 43 1 B
+77 46 1 B
+frame 5 96 96 f1cd08a3
+76 43 1 B
+77 45 2 B
+frame 6 96 96 e532e806
+76 43 1 B
+77 46 1 B
+frame 7 96 96 08851f2e
+76 43 1 B
+77 46 1 B
+79 52 1 B
+frame 8 96 96 3e2dc26d
+76 43 1 B
+frame 9 96 96 b26b8df3
+76 43 1 B
+list 20
+frame 3 96 96 686c89c5
+69 40 1 B
+70 40 1 B
+frame 4 96 96 d6fc1019
+69 40 1 B
+70 40 1 B
+frame 5 96 96 148f3a2d
+69 40 1 B
+70 40 1 B
+frame 6 96 96 32de3387
+69 40 1 B
+70 40 1 B
+frame 7 96 96 3c7a2d3b
+69 40 1 B
+70 40 1 B
+list 20
+frame 9 96 96 20ca6a92
+72 45 1 B
+frame 10 96 96 8760259e
+72 45 1 B
+frame 11 96 96 e77aa9ca
+72 45 1 B
+frame 12 96 96 b6531994
+72 45 1 B
+frame 14 96 96 3cabd35d
+69 45 1 B

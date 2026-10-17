@@ -1,0 +1,228 @@
+# Black pixels of shndt that the shadow rule takes for shadow and that belong to the sprite.
+# Made by `shadow_search fixes`, see https://github.com/diasurgical/devilutionx-shadow-corrections
+shadowfix 1
+list 20
+frame 0 128 96 6f30ca83
+64 52 1 B
+65 53 2 B
+65 63 1 B
+66 64 1 B
+frame 1 128 96 2c4e5dd7
+65 53 1 B
+frame 2 128 96 2ef0ae1b
+65 53 1 B
+frame 4 128 96 ef2206e9
+65 51 2 B
+frame 5 128 96 393e246e
+70 51 1 B
+71 51 1 B
+frame 8 128 96 2fe82b3b
+74 62 2 B
+frame 9 128 96 a69c3ef2
+74 63 1 B
+74 68 2 B
+frame 10 128 96 a54f6925
+70 57 1 B
+74 63 2 B
+75 63 1 B
+frame 11 128 96 5f3859e2
+72 57 1 B
+74 64 1 B
+75 64 2 B
+frame 12 128 96 e5617ea0
+68 59 1 B
+73 63 1 B
+73 69 1 B
+74 65 1 B
+75 66 1 B
+frame 13 128 96 aa35f36c
+73 67 1 B
+frame 16 128 96 9164f74f
+71 46 1 B
+frame 17 128 96 f02d7cf0
+72 46 1 B
+75 45 1 B
+list 20
+frame 0 128 96 7529bde2
+63 58 1 B
+66 62 1 B
+66 65 1 B
+67 62 2 B
+frame 1 128 96 72b86fb1
+63 58 2 B
+76 69 1 B
+frame 3 128 96 4531e967
+63 58 1 B
+frame 5 128 96 98f9a39e
+66 59 1 B
+67 66 1 B
+67 69 1 B
+frame 6 128 96 adfbe208
+66 55 1 B
+frame 8 128 96 69b1006d
+70 56 1 B
+frame 9 128 96 c6ed7477
+69 57 1 B
+frame 10 128 96 48ebb1c7
+70 56 1 B
+71 59 1 B
+frame 11 128 96 680d08a4
+71 56 2 B
+72 57 1 B
+frame 12 128 96 01410122
+71 51 2 B
+frame 14 128 96 1edd5af2
+74 51 2 B
+75 51 2 B
+frame 15 128 96 0dbe6ad0
+77 77 1 B
+frame 17 128 96 fa401847
+73 42 1 B
+74 43 1 B
+75 43 1 B
+75 45 1 B
+75 53 1 B
+76 44 1 B
+76 46 2 B
+76 55 1 B
+list 20
+frame 2 128 96 448e430e
+68 63 1 B
+frame 6 128 96 f34dace7
+74 66 1 B
+frame 8 128 96 873f0a09
+74 44 1 B
+82 64 1 B
+82 68 1 B
+frame 9 128 96 f7b3cbcb
+71 48 1 B
+82 65 1 B
+frame 10 128 96 4dfb5b73
+71 47 1 B
+frame 11 128 96 dd818968
+71 46 1 B
+82 65 1 B
+frame 15 128 96 471ae3f2
+82 61 1 B
+frame 16 128 96 9b24c587
+82 59 2 B
+frame 17 128 96 1de2914c
+81 58 1 B
+frame 18 128 96 f68ece54
+81 56 2 B
+82 61 1 B
+frame 19 128 96 99cbe94c
+81 56 2 B
+82 61 1 B
+list 20
+frame 2 128 96 5b10b633
+77 68 1 B
+frame 8 128 96 b1784ea3
+82 57 1 B
+frame 9 128 96 e9fb4a8e
+82 57 1 B
+83 57 1 B
+frame 10 128 96 41d6755c
+83 55 2 B
+frame 13 128 96 d75a7784
+82 53 1 B
+83 51 1 B
+frame 17 128 96 881035a2
+77 57 1 B
+frame 18 128 96 c27b366d
+73 45 1 B
+77 57 1 B
+80 61 1 B
+list 20
+frame 0 128 96 1975c4f3
+72 59 1 B
+frame 4 128 96 e0037903
+75 61 1 B
+77 61 1 B
+frame 5 128 96 3745e26e
+80 61 1 B
+frame 8 128 96 59e40e75
+85 68 1 B
+frame 9 128 96 2ba7424c
+85 67 1 B
+frame 16 128 96 4081c8ad
+82 46 1 B
+84 47 1 B
+list 20
+frame 5 128 96 07290d4a
+75 50 1 B
+76 50 1 B
+frame 6 128 96 643b2950
+84 46 1 B
+frame 7 128 96 1ace1106
+80 51 1 B
+frame 8 128 96 a6b65e0b
+78 64 1 B
+84 50 1 B
+frame 11 128 96 67b796e0
+82 47 1 B
+83 46 1 B
+frame 15 128 96 b75984d4
+83 38 1 B
+frame 17 128 96 fd2a668f
+80 38 1 B
+frame 18 128 96 dec7e293
+76 72 1 B
+77 77 1 B
+77 79 1 B
+frame 19 128 96 2596fd58
+76 72 1 B
+77 77 1 B
+77 79 1 B
+78 43 1 B
+list 20
+frame 1 128 96 1e940699
+78 49 1 B
+frame 3 128 96 2a275641
+68 54 1 B
+79 49 2 B
+frame 4 128 96 f38317ad
+70 54 2 B
+frame 5 128 96 7a514fc4
+71 56 1 B
+frame 9 128 96 dcf37b1d
+81 43 1 B
+frame 10 128 96 ee6154ef
+80 61 1 B
+frame 15 128 96 1596b4f8
+73 70 1 B
+frame 16 128 96 f427271c
+76 67 1 B
+frame 17 128 96 bd10115f
+79 70 1 B
+80 71 2 B
+list 20
+frame 0 128 96 e850281a
+68 51 1 B
+frame 1 128 96 dadbc549
+68 51 1 B
+frame 2 128 96 5e400798
+67 50 1 B
+68 51 1 B
+frame 3 128 96 6e7f8358
+66 49 1 B
+67 50 1 B
+68 50 1 B
+frame 5 128 96 8b5d798b
+70 51 2 B
+71 51 1 B
+frame 6 128 96 86fa0d5c
+63 60 1 B
+68 44 2 B
+frame 7 128 96 86dc4eb2
+75 54 1 B
+76 56 1 B
+77 57 1 B
+frame 10 128 96 45a052b1
+67 65 1 B
+frame 11 128 96 ab430d08
+72 62 1 B
+frame 15 128 96 2169d296
+74 58 1 B
+75 58 1 B
+76 59 1 B
