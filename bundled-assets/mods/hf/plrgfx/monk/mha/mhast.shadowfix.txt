@@ -19,10 +19,14 @@ frame 10 112 96 5a4e0820
 frame 11 112 96 eebba2cc
 61 43 1 B
 list 20
+frame 8 112 96 70aa441f
+58 39 2 B
 frame 17 112 96 a14f6135
 72 52 1 B
 list 20
 frame 9 112 96 c451f1c6
+70 49 1 B
+frame 12 112 96 b4439215
 70 49 1 B
 list 20
 list 20

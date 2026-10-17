@@ -40,6 +40,7 @@ frame 2 96 96 0891db18
 70 47 1 B
 72 41 1 B
 73 41 1 B
+76 39 1 B
 frame 3 96 96 be1999b3
 72 42 1 B
 73 42 1 B
@@ -52,6 +53,8 @@ frame 7 96 96 898a2615
 list 8
 frame 1 96 96 b4ee58d9
 71 37 1 B
+frame 5 96 96 1bb3e878
+68 42 1 B
 frame 6 96 96 fe696525
 67 40 2 B
 68 40 1 B
@@ -69,8 +72,16 @@ frame 0 96 96 e7ce64c2
 65 32 1 B
 66 32 2 B
 67 33 1 B
+frame 1 96 96 4bb64c7a
+63 52 1 B
+64 53 1 B
+frame 2 96 96 41a0e28c
+65 55 1 B
 frame 3 96 96 7823cdec
 65 54 2 B
+frame 4 96 96 e091e6e0
+67 36 2 B
+68 37 2 B
 frame 6 96 96 fced5e5b
 66 38 1 B
 67 38 1 B

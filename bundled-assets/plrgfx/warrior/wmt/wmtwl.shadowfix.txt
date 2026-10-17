@@ -9,6 +9,8 @@ list 8
 frame 2 96 96 f6516258
 79 46 1 B
 list 8
+frame 3 96 96 c46c3976
+63 42 1 B
 frame 5 96 96 aaabf591
 79 49 1 B
 list 8

@@ -17,6 +17,9 @@ frame 16 128 96 ff964958
 72 75 2 B
 list 20
 list 20
+frame 2 128 96 82461afc
+78 69 1 B
+79 68 2 B
 frame 5 128 96 ad607de6
 80 72 1 B
 frame 7 128 96 8fd1b43d
@@ -41,6 +44,8 @@ frame 0 128 96 062cca63
 frame 3 128 96 1700c220
 72 50 1 B
 73 50 1 B
+frame 5 128 96 c5ebf153
+74 50 1 B
 frame 6 128 96 86ee1669
 77 50 1 B
 78 50 1 B

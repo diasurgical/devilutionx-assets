@@ -8,6 +8,10 @@ list 20
 frame 19 96 96 b2215e4a
 65 51 1 B
 list 20
+frame 5 96 96 2c727aba
+68 50 1 B
+frame 6 96 96 ae58ddcc
+68 50 1 B
 frame 9 96 96 fd34ebcc
 64 41 1 B
 list 20

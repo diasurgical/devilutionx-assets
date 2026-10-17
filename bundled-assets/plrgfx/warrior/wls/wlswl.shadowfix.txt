@@ -12,6 +12,8 @@ frame 6 96 96 63213b2d
 list 8
 frame 6 96 96 7a5c6ec5
 68 48 1 B
+frame 7 96 96 74782763
+76 47 1 B
 list 8
 frame 1 96 96 9b6e3359
 68 45 2 B

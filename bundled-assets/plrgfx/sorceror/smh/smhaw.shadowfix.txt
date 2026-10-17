@@ -22,6 +22,8 @@ list 8
 frame 4 96 96 554ff27e
 74 49 1 B
 list 8
+frame 6 96 96 2436d027
+72 45 1 B
 list 8
 frame 3 96 96 f9a36516
 65 39 2 B

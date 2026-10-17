@@ -4,6 +4,10 @@ shadowfix 1
 list 20
 frame 0 96 96 eb9fd714
 67 37 1 B
+frame 4 96 96 3c1b2351
+71 40 1 B
+frame 5 96 96 49e31ff6
+71 40 1 B
 frame 9 96 96 564d9e2f
 67 37 1 B
 frame 10 96 96 3bd71f8e
@@ -67,3 +71,5 @@ frame 6 96 96 6bace6d0
 77 46 1 B
 list 20
 list 20
+frame 2 96 96 96b48937
+73 45 1 B

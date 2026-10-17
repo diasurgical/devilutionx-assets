@@ -8,11 +8,16 @@ frame 1 112 96 969bb46c
 frame 3 112 96 6dae637c
 70 50 1 B
 list 8
+frame 5 112 96 681506c4
+67 52 1 B
+68 52 1 B
 list 8
 frame 6 112 96 4eef167e
 67 40 2 B
 68 41 1 B
 list 8
+frame 0 112 96 1a3c2527
+63 59 1 B
 list 8
 list 8
 frame 0 112 96 7e5a3f9f

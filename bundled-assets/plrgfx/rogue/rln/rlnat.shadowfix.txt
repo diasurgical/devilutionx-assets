@@ -1,0 +1,13 @@
+# Black pixels of rlnat that the shadow rule takes for shadow and that belong to the sprite.
+# Made by `shadow_search fixes`, see https://github.com/diasurgical/devilutionx-shadow-corrections
+shadowfix 1
+list 18
+list 18
+list 18
+list 18
+list 18
+list 18
+list 18
+list 18
+frame 2 128 128 a0e660f1
+109 68 1 B

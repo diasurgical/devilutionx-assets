@@ -22,12 +22,18 @@ frame 16 112 96 b98074df
 frame 17 112 96 b22c852b
 72 46 2 B
 list 20
+frame 7 112 96 a6fc30c2
+64 48 1 B
+65 48 1 B
 frame 9 112 96 fc6777a8
 64 48 1 B
 frame 10 112 96 a512da3d
 64 48 1 B
 frame 11 112 96 fc6777a8
 64 48 1 B
+frame 13 112 96 a6fc30c2
+64 48 1 B
+65 48 1 B
 list 20
 list 20
 list 20

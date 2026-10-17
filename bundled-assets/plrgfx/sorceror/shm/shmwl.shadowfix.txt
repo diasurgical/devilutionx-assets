@@ -13,7 +13,12 @@ frame 2 96 96 3dc863f2
 frame 3 96 96 f1456f1e
 65 40 1 B
 frame 6 96 96 4c60c81e
+67 45 1 B
+68 45 2 B
 74 48 1 B
+frame 7 96 96 2ec90197
+65 44 1 B
+71 48 1 B
 list 8
 frame 1 96 96 744ce3dc
 66 40 2 B

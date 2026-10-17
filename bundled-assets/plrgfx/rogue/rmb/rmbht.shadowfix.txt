@@ -4,6 +4,10 @@ shadowfix 1
 list 7
 list 7
 list 7
+frame 6 96 96 0475135b
+63 41 1 B
+64 40 1 B
+65 39 2 B
 list 7
 frame 0 96 96 033231c0
 63 40 1 B
@@ -15,6 +19,8 @@ frame 1 96 96 40ae1e5e
 frame 2 96 96 8083f85b
 65 38 1 B
 list 7
+frame 6 96 96 ae3e9187
+73 46 1 B
 list 7
 frame 1 96 96 06e4f557
 70 49 1 B

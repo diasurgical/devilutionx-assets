@@ -18,6 +18,8 @@ frame 10 130 128 4a7d68b1
 92 65 1 B
 frame 11 130 128 3a6f0dab
 92 65 1 B
+frame 18 130 128 f5ee35f0
+91 54 1 B
 frame 19 130 128 32d40d2c
 90 54 1 B
 91 54 1 B

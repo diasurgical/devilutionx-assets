@@ -91,8 +91,16 @@ frame 1 96 96 a2896419
 69 39 1 B
 70 40 1 B
 71 40 1 B
+frame 2 96 96 b3d63c84
+69 40 1 B
+70 41 1 B
+71 41 1 B
 frame 3 96 96 4ac4bffa
 70 42 1 B
+frame 5 96 96 790193f3
+68 43 1 B
+frame 6 96 96 56de2041
+68 44 1 B
 frame 7 96 96 209dbed4
 68 45 1 B
 list 8

@@ -29,7 +29,12 @@ frame 5 96 96 f560e1e4
 60 43 1 B
 62 45 1 B
 list 8
+frame 4 96 96 b757a796
+72 49 1 B
 list 8
+frame 1 96 96 ac33d26f
+71 49 1 B
+72 49 1 B
 list 8
 list 8
 frame 2 96 96 d6dd749b

@@ -4,8 +4,13 @@ shadowfix 1
 list 8
 frame 0 96 96 1d98fc15
 69 37 1 B
+frame 3 96 96 8b7976af
+70 47 1 B
 frame 4 96 96 10dd0b8c
 70 36 2 B
+70 47 1 B
+frame 5 96 96 8b7976af
+70 47 1 B
 list 8
 frame 2 96 96 a2d8b897
 70 39 1 B
@@ -96,7 +101,9 @@ frame 1 96 96 e1642111
 frame 2 96 96 5f5db963
 65 39 1 B
 70 39 1 B
+71 36 1 B
 71 39 2 B
+72 36 1 B
 frame 3 96 96 a10a5c07
 65 39 1 B
 71 39 2 B
@@ -113,7 +120,9 @@ frame 5 96 96 a10a5c07
 frame 6 96 96 5f5db963
 65 39 1 B
 70 39 1 B
+71 36 1 B
 71 39 2 B
+72 36 1 B
 frame 7 96 96 e1642111
 69 39 1 B
 70 39 2 B

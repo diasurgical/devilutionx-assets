@@ -2,6 +2,10 @@
 # Made by `shadow_search fixes`, see https://github.com/diasurgical/devilutionx-shadow-corrections
 shadowfix 1
 list 20
+frame 0 96 96 a5caa0c1
+66 41 1 B
+frame 1 96 96 11067ec4
+66 41 1 B
 frame 2 96 96 547ab662
 70 51 1 B
 frame 3 96 96 c016812c
@@ -67,6 +71,8 @@ frame 15 96 96 1b1d43b0
 frame 16 96 96 6db7422d
 65 41 1 B
 66 52 1 B
+frame 19 96 96 db9ab3b1
+66 41 1 B
 list 20
 frame 0 96 96 dea70336
 64 41 2 B
@@ -172,30 +178,40 @@ frame 4 96 96 b4fc02ee
 74 51 1 B
 76 49 1 B
 frame 5 96 96 469f3b16
+66 42 1 B
 74 43 1 B
 76 49 1 B
 frame 6 96 96 4a627de0
 74 43 1 B
 frame 7 96 96 36f0e6fa
+66 42 1 B
+68 50 1 B
 74 43 1 B
 77 50 1 B
 frame 8 96 96 d3ad1e56
 74 43 1 B
 77 50 1 B
 frame 9 96 96 148f164b
+66 42 1 B
+67 42 1 B
 74 43 1 B
 81 44 1 B
 frame 10 96 96 688bb572
+66 42 1 B
 74 43 1 B
 77 50 1 B
 frame 11 96 96 78166792
+66 42 1 B
+69 42 1 B
 74 43 1 B
 77 50 1 B
 frame 12 96 96 3a3ca43e
+66 42 1 B
 74 43 1 B
 frame 13 96 96 efd5f9e6
 74 43 1 B
 frame 14 96 96 345d15b3
+66 42 1 B
 74 43 1 B
 76 49 1 B
 frame 15 96 96 faa63580
@@ -265,16 +281,26 @@ frame 8 96 96 058775e9
 64 40 1 B
 75 51 2 B
 frame 9 96 96 33bfe89f
+64 40 1 B
+65 40 1 B
 75 51 2 B
 frame 10 96 96 42014334
+64 40 1 B
+65 40 1 B
 75 51 2 B
 frame 11 96 96 f0d247cd
+64 40 1 B
+65 40 1 B
 75 51 1 B
 76 52 1 B
 frame 12 96 96 13fca3d6
+64 40 2 B
+65 40 1 B
 75 51 2 B
 76 52 1 B
 frame 13 96 96 4d5ae1b6
+64 40 1 B
+65 40 1 B
 74 51 1 B
 75 51 2 B
 frame 14 96 96 e278d487
@@ -318,6 +344,15 @@ frame 4 96 96 156e9a71
 72 40 1 B
 frame 6 96 96 37777c52
 72 40 1 B
+frame 8 96 96 ace83f17
+70 40 1 B
+71 40 1 B
+frame 9 96 96 41132006
+70 40 1 B
+71 40 1 B
+frame 10 96 96 a5aa0f31
+70 40 1 B
+71 40 1 B
 frame 13 96 96 07b0a4b4
 72 40 1 B
 frame 15 96 96 2515a184
@@ -367,8 +402,13 @@ frame 15 96 96 95d6624e
 frame 16 96 96 2b2dc616
 76 44 1 B
 list 20
+frame 0 96 96 c1ef1811
+66 40 1 B
 frame 1 96 96 f9f8e479
+71 41 1 B
 71 48 1 B
+72 41 1 B
+73 42 1 B
 frame 2 96 96 d6cf6561
 65 41 1 B
 70 48 1 B
@@ -397,15 +437,21 @@ frame 5 96 96 130ba552
 frame 6 96 96 49d98404
 63 43 1 B
 67 44 1 B
+71 41 1 B
+72 41 1 B
 frame 7 96 96 7efff73f
 63 43 1 B
 67 44 1 B
 69 48 1 B
 70 48 1 B
+71 41 1 B
+72 41 1 B
 frame 8 96 96 a608d2c9
 63 43 1 B
 69 48 1 B
 70 48 1 B
+71 41 1 B
+72 41 1 B
 frame 9 96 96 78289bde
 63 43 1 B
 70 48 1 B
@@ -417,6 +463,8 @@ frame 10 96 96 f53b2be2
 63 43 1 B
 69 48 1 B
 70 48 1 B
+71 41 1 B
+72 41 1 B
 frame 11 96 96 d0c5d04b
 63 43 1 B
 67 44 1 B
@@ -429,27 +477,40 @@ frame 11 96 96 d0c5d04b
 frame 12 96 96 e34769c7
 63 43 1 B
 67 44 1 B
+71 41 1 B
+72 41 1 B
 77 49 1 B
 frame 13 96 96 ff2703b0
 67 44 1 B
+71 41 1 B
+72 41 1 B
 frame 14 96 96 00d1bcce
 67 44 1 B
 71 41 1 B
 72 41 1 B
 frame 15 96 96 3c4db62b
+67 44 1 B
 71 41 1 B
 72 41 1 B
 frame 16 96 96 ff2f5d1f
+67 44 1 B
 71 41 1 B
 72 41 1 B
 frame 17 96 96 441ee4a9
 65 41 1 B
+67 44 1 B
 71 41 1 B
 72 41 1 B
 frame 18 96 96 f2e65323
 64 41 1 B
 65 41 1 B
+70 42 1 B
 70 48 1 B
+71 41 1 B
 71 48 1 B
+72 41 2 B
 frame 19 96 96 7a5788d8
+71 41 1 B
 71 48 1 B
+72 41 1 B
+73 42 1 B

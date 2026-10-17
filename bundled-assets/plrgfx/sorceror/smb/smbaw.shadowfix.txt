@@ -28,6 +28,8 @@ frame 7 96 96 cdc15ec0
 66 40 1 B
 list 8
 list 8
+frame 6 96 96 7037ed5b
+72 45 1 B
 list 8
 frame 3 96 96 ef95afd2
 65 39 2 B

@@ -23,6 +23,8 @@ frame 4 96 96 8cf6e63b
 67 47 1 B
 list 8
 list 8
+frame 2 96 96 0fae38c2
+70 46 1 B
 frame 6 96 96 108d3ce3
 75 45 1 B
 77 44 1 B

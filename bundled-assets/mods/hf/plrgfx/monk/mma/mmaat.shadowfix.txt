@@ -6,6 +6,9 @@ frame 20 130 128 ceeafd87
 104 60 1 B
 105 60 1 B
 list 23
+frame 15 130 128 62cffd3c
+117 50 1 B
+118 50 1 B
 list 23
 list 23
 frame 5 130 128 6b38ad45
@@ -22,6 +25,9 @@ list 23
 list 23
 frame 20 130 128 577ebedd
 100 73 1 B
+frame 21 130 128 f7413339
+102 70 1 B
+103 70 1 B
 list 23
 frame 13 130 128 8952cdba
 98 73 1 B

@@ -24,3 +24,6 @@ frame 6 96 96 9e830ca6
 list 8
 frame 1 96 96 d54e2ea1
 69 47 1 B
+frame 6 96 96 fdea3482
+78 46 1 B
+79 47 1 B

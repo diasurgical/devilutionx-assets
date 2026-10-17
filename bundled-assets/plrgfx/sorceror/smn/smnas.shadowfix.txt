@@ -8,14 +8,24 @@ list 8
 frame 4 96 96 47b8e34e
 76 36 1 B
 list 8
+frame 2 96 96 de2bd66d
+76 43 1 B
+frame 6 96 96 de2bd66d
+76 43 1 B
 list 8
 frame 0 96 96 7010b930
 72 37 1 B
+frame 2 96 96 efbc465d
+72 37 1 B
+73 37 1 B
 frame 3 96 96 c7ea86ef
 73 37 1 B
 frame 4 96 96 84fac829
 73 37 1 B
 frame 5 96 96 c7ea86ef
+73 37 1 B
+frame 6 96 96 efbc465d
+72 37 1 B
 73 37 1 B
 list 8
 frame 4 96 96 1fa12479

@@ -10,6 +10,8 @@ frame 11 128 96 e37ea9d0
 69 54 1 B
 70 53 1 B
 list 16
+frame 6 128 96 4b57a2bb
+65 51 1 B
 list 16
 frame 7 128 96 6b13ba76
 54 58 1 B
@@ -19,4 +21,6 @@ list 16
 frame 2 128 96 d67cc302
 70 65 1 B
 list 16
+frame 14 128 96 b312d17a
+65 59 1 B
 list 16

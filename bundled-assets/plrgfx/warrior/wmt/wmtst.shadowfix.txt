@@ -6,6 +6,46 @@ list 20
 list 20
 list 20
 list 20
+frame 0 96 96 5943d35c
+68 40 1 B
+frame 1 96 96 4c0c4c4f
+68 40 1 B
+frame 2 96 96 011dd5bb
+68 40 1 B
+frame 3 96 96 04ef302b
+68 40 1 B
+frame 4 96 96 517fe425
+68 40 1 B
+frame 5 96 96 04ef302b
+68 40 1 B
+frame 6 96 96 fba8b718
+68 40 1 B
+frame 7 96 96 c2c0bc04
+68 40 1 B
+frame 8 96 96 5e0f216a
+68 40 1 B
+frame 9 96 96 dc24a7f8
+68 40 1 B
+frame 10 96 96 fbbea744
+68 40 1 B
+frame 11 96 96 85cb8748
+68 40 1 B
+frame 12 96 96 22b2436d
+68 40 1 B
+frame 13 96 96 4059a8fe
+68 40 1 B
+frame 14 96 96 4059a8fe
+68 40 1 B
+frame 15 96 96 4059a8fe
+68 40 1 B
+frame 16 96 96 4059a8fe
+68 40 1 B
+frame 17 96 96 5054760f
+68 40 1 B
+frame 18 96 96 36761c70
+68 40 1 B
+frame 19 96 96 623011eb
+68 40 1 B
 list 20
 list 20
 frame 9 96 96 b25a753b

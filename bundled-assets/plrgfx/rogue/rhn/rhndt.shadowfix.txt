@@ -20,12 +20,16 @@ frame 0 128 96 c7ead40f
 71 56 1 B
 frame 1 128 96 08bb1cf6
 63 57 2 B
+65 54 1 B
 frame 13 128 96 79d169f6
 76 73 1 B
+frame 14 128 96 3b6b2952
+79 72 1 B
 list 20
 frame 1 128 96 842f4b6c
 65 57 1 B
 69 56 1 B
+74 54 1 B
 frame 3 128 96 5d8a8d3b
 75 57 1 B
 frame 10 128 96 d05b7ef0
@@ -84,19 +88,46 @@ frame 11 128 96 0f9c11be
 69 47 1 B
 frame 12 128 96 6eaaf941
 73 51 1 B
+frame 14 128 96 948d79a3
+73 44 1 B
+frame 15 128 96 1e597d1f
+73 44 1 B
+frame 16 128 96 4e0357e8
+73 43 2 B
+frame 17 128 96 42c7da58
+73 44 1 B
+frame 18 128 96 b42b9473
+73 44 1 B
+frame 19 128 96 f51af5a4
+73 43 2 B
 list 20
+frame 10 128 96 54d7ab95
+72 71 1 B
+73 70 2 B
+frame 13 128 96 0307bfa8
+81 62 1 B
+frame 15 128 96 4dffc02d
+78 66 1 B
 list 20
 frame 0 128 96 3d56c3ac
 73 64 1 B
 frame 1 128 96 8833127f
 76 64 1 B
 79 63 1 B
+frame 4 128 96 0dd5ec98
+75 63 1 B
 frame 6 128 96 d5c1a0b4
 82 79 1 B
+frame 7 128 96 8e2651a6
+81 81 1 B
+frame 8 128 96 3eda1025
+76 64 1 B
 frame 9 128 96 06ebf275
 78 65 1 B
 frame 12 128 96 f62598c6
 78 79 1 B
+frame 15 128 96 97ae4b3b
+74 79 1 B
 frame 16 128 96 bc79602e
 73 81 1 B
 frame 17 128 96 c417c22c
@@ -106,6 +137,13 @@ frame 18 128 96 629014f8
 frame 19 128 96 6575ccef
 74 83 1 B
 list 20
+frame 0 128 96 c3a7c23f
+68 66 2 B
+69 66 1 B
+70 67 1 B
+71 66 2 B
+72 66 1 B
+74 67 1 B
 frame 4 128 96 5aa82c90
 71 49 1 B
 76 39 1 B
@@ -116,8 +154,11 @@ frame 6 128 96 ee1b06e9
 84 40 1 B
 85 39 1 B
 frame 7 128 96 3e12d5b0
+75 52 1 B
 78 45 1 B
 78 49 1 B
+frame 8 128 96 bea63679
+76 58 1 B
 frame 10 128 96 d13a1791
 84 49 1 B
 frame 12 128 96 dac95647

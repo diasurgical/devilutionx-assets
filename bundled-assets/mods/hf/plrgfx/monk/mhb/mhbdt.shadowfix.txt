@@ -24,6 +24,8 @@ frame 3 160 128 b9f9ad7c
 frame 12 160 128 8e67b7b4
 104 75 1 B
 105 75 1 B
+frame 13 160 128 38cd933b
+93 68 1 B
 frame 14 160 128 f16a1dcf
 94 82 1 B
 list 20

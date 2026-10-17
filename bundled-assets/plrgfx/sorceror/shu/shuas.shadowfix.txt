@@ -9,11 +9,14 @@ frame 1 96 96 ea8a15a0
 frame 3 96 96 5b8ea747
 69 35 1 B
 70 36 1 B
+70 47 1 B
 frame 4 96 96 bd979604
 70 37 1 B
+70 47 1 B
 frame 5 96 96 5b8ea747
 69 35 1 B
 70 36 1 B
+70 47 1 B
 frame 7 96 96 ea8a15a0
 70 47 1 B
 list 8

@@ -8,6 +8,8 @@ list 8
 frame 3 112 96 d21dde47
 67 48 2 B
 list 8
+frame 0 112 96 39d17ab5
+63 59 1 B
 list 8
 list 8
 frame 0 112 96 50de9bd7

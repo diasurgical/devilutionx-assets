@@ -4,6 +4,8 @@ shadowfix 1
 list 16
 list 16
 list 16
+frame 1 130 128 ed488276
+105 60 1 B
 frame 2 130 128 91d82ca6
 93 58 1 B
 frame 6 130 128 8d05ed2a

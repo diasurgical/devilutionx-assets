@@ -4,6 +4,12 @@ shadowfix 1
 list 7
 frame 0 96 96 42910173
 63 38 1 B
+67 40 2 B
+68 41 1 B
+69 42 1 B
+frame 1 96 96 ab164a84
+69 42 1 B
+70 43 1 B
 frame 2 96 96 891fd2e2
 66 41 1 B
 70 45 1 B
@@ -26,6 +32,7 @@ frame 3 96 96 26ee84c7
 frame 5 96 96 afed5f68
 66 40 1 B
 69 39 1 B
+76 43 1 B
 frame 6 96 96 d5d79300
 76 44 1 B
 list 7
@@ -34,9 +41,12 @@ frame 0 96 96 b4b9f608
 64 35 1 B
 80 39 1 B
 frame 1 96 96 21676592
+63 36 1 B
+68 36 1 B
 73 38 1 B
 80 39 1 B
 frame 2 96 96 98f7b4f3
+65 37 1 B
 68 36 1 B
 80 39 1 B
 frame 3 96 96 99c2f7cd
@@ -47,6 +57,7 @@ frame 3 96 96 99c2f7cd
 frame 4 96 96 a001c96d
 63 36 1 B
 frame 5 96 96 d00a87e1
+65 38 1 B
 68 37 1 B
 frame 6 96 96 b501a46d
 62 37 1 B
@@ -69,8 +80,12 @@ frame 1 96 96 7970c0df
 frame 4 96 96 2de02e43
 70 47 1 B
 71 48 1 B
+frame 6 96 96 a291b4d6
+75 43 1 B
 list 7
 frame 1 96 96 fef68520
+68 54 2 B
+69 55 1 B
 76 38 1 B
 frame 3 96 96 f4a66d79
 70 41 1 B
@@ -84,6 +99,8 @@ frame 6 96 96 5af4605e
 77 52 1 B
 list 7
 frame 0 96 96 73bbbb1c
+65 37 2 B
+66 37 2 B
 69 37 1 B
 frame 2 96 96 4a0c9a51
 68 37 1 B
