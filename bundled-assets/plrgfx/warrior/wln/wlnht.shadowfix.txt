@@ -39,5 +39,8 @@ frame 4 96 96 2bf3c4f5
 frame 5 96 96 88c6159d
 70 49 1 B
 list 6
+frame 5 96 96 0cbfe939
+71 40 2 B
+72 40 1 B
 list 6
 list 6

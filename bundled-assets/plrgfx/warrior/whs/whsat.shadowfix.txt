@@ -6,6 +6,8 @@ frame 10 128 128 f3c781c2
 114 64 1 B
 list 16
 list 16
+frame 7 128 128 2f8f5816
+85 57 1 B
 list 16
 list 16
 list 16

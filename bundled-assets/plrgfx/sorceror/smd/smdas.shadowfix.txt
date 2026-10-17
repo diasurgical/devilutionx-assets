@@ -24,6 +24,12 @@ list 8
 frame 0 96 96 11245334
 75 40 1 B
 list 8
+frame 3 96 96 52924f8e
+64 37 1 B
+frame 4 96 96 90648eb5
+64 37 1 B
+frame 5 96 96 52924f8e
+64 37 1 B
 list 8
 frame 1 96 96 7428b2b3
 66 43 1 B

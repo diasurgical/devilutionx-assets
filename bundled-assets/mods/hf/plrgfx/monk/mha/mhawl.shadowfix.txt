@@ -14,6 +14,9 @@ list 8
 list 8
 frame 5 112 96 fcdebefe
 65 40 2 B
+frame 7 112 96 8c7a09eb
+59 40 1 B
+60 42 1 B
 list 8
 list 8
 frame 7 112 96 fc077eae

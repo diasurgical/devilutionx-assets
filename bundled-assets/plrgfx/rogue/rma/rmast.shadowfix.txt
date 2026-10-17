@@ -7,6 +7,9 @@ list 20
 list 20
 frame 1 96 96 480c6d32
 64 39 1 B
+frame 7 96 96 2b3ea7f8
+64 38 1 B
+65 38 1 B
 frame 10 96 96 7e70efb7
 64 38 1 B
 65 38 1 B

@@ -16,5 +16,7 @@ frame 5 96 96 c3a5c6eb
 65 41 1 B
 list 7
 list 7
+frame 1 96 96 7625de96
+75 46 1 B
 list 7
 list 7

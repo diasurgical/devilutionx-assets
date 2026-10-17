@@ -11,6 +11,9 @@ frame 10 128 96 0e69d0b2
 81 54 1 B
 frame 11 128 96 f208b22d
 81 54 1 B
+frame 14 128 96 914d5415
+81 53 2 B
+82 54 1 B
 list 15
 frame 4 128 96 3ccdf9bd
 73 83 1 B
@@ -34,6 +37,8 @@ frame 1 128 96 55a4f02a
 72 75 1 B
 frame 2 128 96 bb3cb25b
 74 80 1 B
+frame 6 128 96 e99eefe7
+74 78 1 B
 list 15
 frame 5 128 96 208a6246
 74 75 1 B
@@ -75,3 +80,5 @@ frame 10 128 96 06a07e34
 78 37 1 B
 frame 11 128 96 2791f130
 77 63 1 B
+frame 12 128 96 4974316f
+80 55 1 B

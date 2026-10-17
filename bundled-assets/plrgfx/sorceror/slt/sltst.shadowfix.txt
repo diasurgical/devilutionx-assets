@@ -2,8 +2,22 @@
 # Made by `shadow_search fixes`, see https://github.com/diasurgical/devilutionx-shadow-corrections
 shadowfix 1
 list 20
+frame 8 96 96 0a153363
+66 37 1 B
+frame 11 96 96 aae03dff
+69 40 1 B
+frame 12 96 96 35748131
+68 40 1 B
+69 40 1 B
+frame 13 96 96 aefd863b
+69 40 1 B
+frame 14 96 96 60ee510e
+68 40 1 B
+69 40 1 B
 frame 15 96 96 f494aa87
 68 40 1 B
+frame 16 96 96 0214bc21
+69 40 1 B
 list 20
 list 20
 list 20
@@ -27,6 +41,8 @@ frame 7 96 96 d7774632
 list 20
 frame 9 96 96 28d6fe73
 72 49 1 B
+frame 12 96 96 bc52a8da
+78 46 1 B
 frame 15 96 96 1e21200c
 77 44 1 B
 79 45 1 B

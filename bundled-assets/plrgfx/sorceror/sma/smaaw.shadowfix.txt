@@ -23,6 +23,8 @@ frame 6 96 96 7dbb3066
 list 8
 list 8
 list 8
+frame 6 96 96 2696e4dc
+72 45 1 B
 list 8
 frame 3 96 96 30ee560e
 65 39 2 B

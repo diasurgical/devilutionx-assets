@@ -46,6 +46,10 @@ frame 10 128 128 f28b0d29
 list 20
 frame 0 128 128 ce1b72c3
 106 51 1 B
+frame 1 128 128 682ae8cc
+99 52 1 B
+frame 4 128 128 911cc96d
+95 59 1 B
 frame 5 128 128 1f563e80
 97 49 1 B
 frame 8 128 128 7d8ed31d

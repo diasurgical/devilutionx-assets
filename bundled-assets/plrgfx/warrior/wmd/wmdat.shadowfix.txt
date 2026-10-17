@@ -6,12 +6,16 @@ list 16
 frame 1 128 128 43bbad74
 97 57 1 B
 98 57 1 B
+frame 5 128 128 aa398fe1
+97 61 1 B
 list 16
 frame 6 128 128 5b0d5d86
 85 57 1 B
 list 16
 frame 13 128 128 a247463d
 95 51 1 B
+98 50 1 B
+99 50 1 B
 list 16
 frame 1 128 128 596d826a
 101 65 1 B

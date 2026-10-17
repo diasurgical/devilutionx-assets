@@ -2,6 +2,46 @@
 # Made by `shadow_search fixes`, see https://github.com/diasurgical/devilutionx-shadow-corrections
 shadowfix 1
 list 20
+frame 0 96 96 68639f6a
+84 56 1 B
+frame 1 96 96 f96455f2
+84 56 1 B
+frame 2 96 96 161e02e8
+84 56 1 B
+frame 3 96 96 9f1304c4
+84 56 1 B
+frame 4 96 96 3d621687
+84 56 1 B
+frame 5 96 96 c80f7600
+84 56 1 B
+frame 6 96 96 c7202a8b
+84 56 1 B
+frame 7 96 96 9b81a5da
+84 56 1 B
+frame 8 96 96 9ce56fd5
+84 56 1 B
+frame 9 96 96 4b7f5ee7
+84 56 1 B
+frame 10 96 96 4647e440
+84 56 1 B
+frame 11 96 96 561b6c6e
+84 56 1 B
+frame 12 96 96 e02755fd
+84 56 1 B
+frame 13 96 96 4806176d
+84 56 1 B
+frame 14 96 96 19bd8934
+84 56 1 B
+frame 15 96 96 9adaac9f
+84 56 1 B
+frame 16 96 96 ef416864
+84 56 1 B
+frame 17 96 96 e02755fd
+84 56 1 B
+frame 18 96 96 0ad7de65
+84 56 1 B
+frame 19 96 96 9feba4e3
+84 56 1 B
 list 20
 list 20
 frame 0 96 96 7499b578
@@ -72,9 +112,35 @@ frame 3 96 96 7b40c849
 61 46 1 B
 frame 4 96 96 a97db670
 61 46 1 B
+frame 5 96 96 377b7496
+61 46 1 B
 frame 6 96 96 5532206c
 61 46 1 B
 frame 7 96 96 063791e8
+61 46 1 B
+frame 8 96 96 5632701c
+61 46 1 B
+frame 9 96 96 6c45af13
+61 46 1 B
+frame 10 96 96 d2277d3b
+61 46 1 B
+frame 11 96 96 b12e1422
+61 46 1 B
+frame 12 96 96 d865b169
+61 46 1 B
+frame 13 96 96 232bc2e5
+61 46 1 B
+frame 14 96 96 ae40119c
+61 46 1 B
+frame 15 96 96 ae40119c
+61 46 1 B
+frame 16 96 96 ae40119c
+61 46 1 B
+frame 17 96 96 8b82adf4
+61 46 1 B
+frame 18 96 96 c8b770ad
+61 46 1 B
+frame 19 96 96 3a9ac62e
 61 46 1 B
 list 20
 frame 0 96 96 c8d4d7e4

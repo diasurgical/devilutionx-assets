@@ -8,6 +8,7 @@ frame 15 128 128 864aefd5
 list 16
 frame 2 128 128 40f0e23c
 95 63 1 B
+107 56 1 B
 frame 4 128 128 703b6a57
 99 50 1 B
 frame 7 128 128 b0427b70
@@ -42,6 +43,10 @@ frame 14 128 128 d6392df3
 list 16
 frame 1 128 128 a6ea2106
 107 53 1 B
+frame 7 128 128 28854afd
+97 52 1 B
+frame 8 128 128 4e7052bf
+98 52 2 B
 frame 10 128 128 355f123a
 97 60 1 B
 98 60 1 B

@@ -10,6 +10,8 @@ list 6
 frame 0 96 96 48fd9777
 68 36 1 B
 69 36 1 B
+frame 1 96 96 e02d62a3
+70 37 2 B
 frame 3 96 96 bf52c3fc
 69 36 2 B
 70 36 2 B
@@ -20,6 +22,9 @@ list 6
 frame 0 96 96 68f56193
 71 41 1 B
 72 41 2 B
+frame 4 96 96 e0c8b0a5
+72 42 2 B
+73 42 1 B
 list 6
 frame 0 96 96 942aa6fd
 67 34 1 B

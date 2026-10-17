@@ -11,6 +11,8 @@ frame 4 96 96 1ed5fcea
 67 39 1 B
 70 40 1 B
 list 6
+frame 3 96 96 08d729c2
+63 33 1 B
 list 6
 list 6
 frame 0 96 96 f9995197

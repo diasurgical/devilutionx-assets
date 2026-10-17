@@ -36,9 +36,18 @@ frame 2 96 96 f51963f3
 69 35 1 B
 frame 3 96 96 b2d1dde2
 69 34 2 B
+frame 4 96 96 0554a314
+68 34 1 B
+69 34 2 B
 frame 5 96 96 4f4da48d
 68 34 1 B
 69 34 1 B
+frame 6 96 96 91fc6767
+68 34 1 B
+69 34 2 B
+frame 7 96 96 ae5d6ad1
+68 34 1 B
+69 34 2 B
 frame 8 96 96 b2d1dde2
 69 34 2 B
 frame 9 96 96 9f718caa

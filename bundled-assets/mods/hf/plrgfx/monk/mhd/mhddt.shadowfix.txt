@@ -19,6 +19,9 @@ frame 13 160 128 af3dca74
 list 20
 frame 3 160 128 89673b2b
 102 74 1 B
+frame 8 160 128 1ce09bbb
+101 76 1 B
+102 76 1 B
 frame 12 160 128 1e64c94e
 104 75 1 B
 105 75 1 B

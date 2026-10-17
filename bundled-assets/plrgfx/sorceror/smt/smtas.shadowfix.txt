@@ -11,6 +11,8 @@ list 8
 frame 0 96 96 c7613599
 66 43 1 B
 list 8
+frame 0 96 96 7353aea5
+77 51 1 B
 list 8
 frame 1 96 96 cbf7baad
 75 43 1 B

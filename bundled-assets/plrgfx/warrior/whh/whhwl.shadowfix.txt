@@ -16,6 +16,8 @@ frame 5 96 96 4080553d
 list 8
 list 8
 list 8
+frame 7 96 96 5cbfe986
+63 44 1 B
 list 8
 frame 4 96 96 bcad02d0
 67 47 1 B

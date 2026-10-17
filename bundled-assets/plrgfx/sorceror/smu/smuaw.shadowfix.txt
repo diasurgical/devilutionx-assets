@@ -38,5 +38,7 @@ frame 1 96 96 ddd5f71b
 75 43 1 B
 76 43 1 B
 list 8
+frame 1 96 96 678ca1fe
+71 45 1 B
 frame 3 96 96 12886176
 74 36 1 B

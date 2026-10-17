@@ -8,6 +8,8 @@ frame 9 96 96 b7142d7d
 65 46 1 B
 list 20
 list 20
+frame 3 96 96 a1c8f8ff
+79 46 1 B
 frame 4 96 96 8c30feff
 79 45 1 B
 frame 5 96 96 8a3edd96

@@ -10,6 +10,9 @@ frame 20 130 128 96fbe935
 list 23
 frame 9 130 128 1dc121a2
 104 55 1 B
+frame 15 130 128 705a6a0c
+117 50 1 B
+118 50 1 B
 list 23
 list 23
 frame 3 130 128 cfe877ba
@@ -28,4 +31,9 @@ frame 12 130 128 abd30c0c
 list 23
 frame 11 130 128 546f1350
 98 76 1 B
+frame 21 130 128 b2fafdb9
+99 72 1 B
+100 72 1 B
+102 70 1 B
+103 70 1 B
 list 23

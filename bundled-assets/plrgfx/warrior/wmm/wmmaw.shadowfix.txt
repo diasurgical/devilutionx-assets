@@ -4,6 +4,8 @@ shadowfix 1
 list 8
 list 8
 list 8
+frame 0 96 96 80868aba
+64 42 1 B
 frame 6 96 96 a81e73b2
 64 41 1 B
 66 42 1 B

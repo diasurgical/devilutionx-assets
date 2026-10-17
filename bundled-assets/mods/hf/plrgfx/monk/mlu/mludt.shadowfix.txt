@@ -14,6 +14,8 @@ frame 9 160 128 9ca96e21
 106 72 1 B
 107 71 1 B
 108 71 1 B
+frame 10 160 128 ae58bca2
+109 71 1 B
 frame 12 160 128 04c5301f
 106 67 1 B
 list 20
@@ -29,6 +31,8 @@ frame 7 160 128 53cb3f8a
 110 68 1 B
 111 68 1 B
 list 20
+frame 10 160 128 c64bd4f3
+95 79 1 B
 frame 11 160 128 d3a8aaf8
 92 78 1 B
 93 78 1 B
